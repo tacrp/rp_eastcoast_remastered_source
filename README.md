@@ -1,2 +1,8 @@
 # rp_eastcoast_remastered_source
-source files for arcrp map
+
+What this map requires:
+
+Counter-Strike Source mounted
+Counter-Strike Global Offensive mounted
+Left 4 Dead 2 Mounted
+Tactitcal Intervention (files will be provided)
