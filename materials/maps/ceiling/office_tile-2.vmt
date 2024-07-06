@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+ $basetexture "maps/ceiling/office_tile-2"
+ $surfaceprop ceiling_tile
+ "%keywords" tacint
+}
+

@@ -1,0 +1,10 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\wood/flooring-5"
+ $surfaceprop wood
+ 
+ $detail "detail/detail_wood1b"
+ $detailscale 14
+ $detailblendfactor "1.7"
+ $detailblendmode 0
+}

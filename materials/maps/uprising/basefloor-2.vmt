@@ -1,0 +1,15 @@
+lightmappedgeneric
+{
+ $baseTexture "maps/uprising/basefloor-2"
+ $bumpmap "maps/uprising/basefloor-1_normal"
+ $surfaceprop concrete
+
+ $detail "detail/asphalt-2"
+ $detailscale 2
+ $detailblendfactor "0.666"
+ 
+ $phong 1
+ $phongexponent 8
+ $phongMaskContrastBrightness "[1 0.05]"
+ $phongAmount "[1 1 1 2]"
+}

@@ -1,0 +1,10 @@
+lightmappedgeneric
+{
+ $baseTexture "maps/construction/concretewall-1"
+ $bumpmap "maps/construction/concretewall-1_normal"
+ $surfaceprop concrete
+
+ $detail "detail/concrete-1"
+ $detailscale 10
+ $detailblendfactor "0.666"
+}

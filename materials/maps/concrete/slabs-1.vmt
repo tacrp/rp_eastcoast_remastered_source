@@ -1,0 +1,5 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\concrete/slabs-1"
+ $surfaceprop concrete
+}

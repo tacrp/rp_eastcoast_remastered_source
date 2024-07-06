@@ -1,0 +1,20 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\streets_sidewalks/asphalt-15"
+ $bumpmap "maps/monaco/street/asphalt1_normal"
+ $surfaceprop concrete
+ 
+ $detail "detail/asphalt-1"
+ $detailscale 10
+ $detailblendfactor "1.35"
+ $detailblendmode 0
+ 
+ $normalmapalphaenvmapmask 1
+ 
+ $phong 1
+ $phongexponent "20.0"
+ $phongMaskContrastBrightness "[1 0]"
+ $phongAmount "[2 2 2 1.0]"
+ 
+ $bumptransform "center .5 .5 scale 3 3 rotate 0 translate 0 0"
+}

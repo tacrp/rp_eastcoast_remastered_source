@@ -1,0 +1,6 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\wood/hutplanks-2"
+ $bumpmap "maps/wood/hutplanks-1_NORMAL"
+ $surfaceprop wood
+}

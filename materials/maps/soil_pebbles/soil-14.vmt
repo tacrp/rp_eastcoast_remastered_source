@@ -1,0 +1,6 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\soil_pebbles/soil-14"
+ $bumpmap "maps\soil_pebbles/soil-14_NORMAL"
+ $surfaceprop dirt
+}

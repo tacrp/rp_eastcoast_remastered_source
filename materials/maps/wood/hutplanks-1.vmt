@@ -1,0 +1,11 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\wood/hutplanks-1"
+ $bumpmap "maps/wood/hutplanks-1_NORMAL"
+ $surfaceprop wood
+ 
+ $detail "detail/detail_wood1b"
+ $detailscale 12
+ $detailblendfactor 2
+ $detailblendmode 0
+}

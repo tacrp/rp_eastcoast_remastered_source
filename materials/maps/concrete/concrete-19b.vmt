@@ -1,0 +1,9 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\concrete/concrete-19B"
+ $surfaceprop concrete
+ $detail "detail/korean_stone_detail-1"
+ $detailscale 5
+ $detailblendfactor ".1"
+ 
+}

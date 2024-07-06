@@ -1,0 +1,11 @@
+lightmappedgeneric
+{
+ $baseTexture "maps/tiles/tile-47"
+ $bumpmap "maps/tiles/tile-47_normal"
+ $normalmapalphaenvmapmask 1
+
+ $envmap env_cubemap
+ $envmaptint "[ 0.33 0.33 0.33 ]"
+ 
+ $surfaceprop concrete
+}

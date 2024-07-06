@@ -1,0 +1,6 @@
+lightmappedgeneric
+{
+ $baseTexture "maps/uprising/basewall-8"
+ $bumpmap "maps/uprising/basewall-8_normal"
+ $surfaceprop concrete
+}

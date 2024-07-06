@@ -1,0 +1,9 @@
+lightmappedgeneric
+{
+ $baseTexture "maps\plaster/white-1"
+ $surfaceprop tile
+
+ $detail "detail/metal_painted-1"
+ $detailscale "5.0"
+ $detailblendfactor 4
+}
