@@ -1,11 +1,5 @@
 # rp_eastcoast_remastered_source
 
-What this map requires:
+Includes custom materials, models and .vmf. 
 
-Counter-Strike Source mounted
-
-Counter-Strike Global Offensive mounted
-
-Left 4 Dead 2 Mounted
-
-Tactitcal Intervention (files will be provided)
+All you need is a hopefully clean enough install of Garry's Mod, mainly to avoid confusion. Simply drop the "materials" and "models" folder into your "garrysmod" folder so Hammer can display them properly.
