@@ -1,0 +1,1982 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.vmf
+Material not found!: PLASTER/INFINTWLLA
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: MAPS/WOOD/FLOORING-5
+Material not found!: CONCRETE/OLDCONCRETE_033
+Material not found!: CONCRETE/OLDCONCRETE_045
+Material not found!: MAPS/CEILING/OFFICE_TILE-2
+Material not found!: MAPS/PLASTER/WHITE-1
+Material not found!: BRICK/HR_BRICK/VENICE/VENICE_BRICK_4
+Material not found!: CONCRETE/HR_C/HR_CONC_D
+Material not found!: CS_HAVANA/IFLRD
+Material not found!: MAPS/TILES/TILE-47
+Material not found!: CARPET/OFFFLRA
+Material not found!: DE_PIRANESI/MARBLEFLOOR01
+Material not found!: BRICK/BRICK_001
+Material not found!: STONE/STONETRIM002A
+Material not found!: MAPS/STREETS_SIDEWALKS/ASPHALT-15
+Material not found!: CONCRETE/HR_C/HR_CONC_PILLAR_A_DIRTY
+Material not found!: BRICK/HR_BRICK/BRICK_H1
+Material not found!: BRICK/HR_BRICK/BRICK_G2
+Material not found!: MAPS/UPRISING/BASEFLOOR-2
+Material not found!: MAPS/WOOD/HUTPLANKS-1
+Material not found!: MAPS/TRIMMINGS/CONCRETE-1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: TILE/HR_T/INFERNO/TILE_B
+Material not found!: CONCRETE/VERTIGO_CONCRETEFLOORA
+Material not found!: CONCRETE/HR_C/HR_CONC_D2
+Material not found!: CS_ITALY/PIPE_WALL4_3
+Material not found!: DE_DUST/RESIDBWALL03
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CBBLE/WALLINTERIOR01A
+Material not found!: CS_HAVANA/TRMB
+Material not found!: BRICK/HR_BRICK/INFERNO/BRICK_D1
+Material not found!: DE_DUST/SITEBWALL02
+Material not found!: PLASTER/PLASTERWALL_011
+Material not found!: CS_ITALY/PCON2
+Material not found!: MAPS/CONSTRUCTION/CONCRETEWALL-1
+Material not found!: DE_DUST/DOOR02
+Material not found!: DE_DUST/RESIDWALL02
+Material not found!: DE_PIRANESI/MARBLEFLOOR10
+Material not found!: CS_ASSAULT/LEFTCURB001
+Material not found!: CS_ASSAULT/RIGHTCURB001
+Material not found!: MAPS/CONCRETE/SLABS-1
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: CS_ITALY/MARKETWALL01E
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ASSAULT/ASSAULT_BRICK2A
+Material not found!: CS_HAVANA/TRMD
+Material not found!: CS_HAVANA/WLLU01
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: TILE/TILE_WALL_002
+Material not found!: DE_CHATEAU/EXTTRIM07
+Material not found!: CS_HAVANA/TRMF
+Material not found!: WOOD/WOODDOOR026A
+Material not found!: TILE/HR_T/TILES_B
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: PLASTER/OFFWLLB
+Material not found!: BRICK/HR_BRICK/BRICK_H
+Material not found!: CONCRETE/OLDCONCRETE_057
+Material not found!: CS_ITALY/DOOR_SN01
+Material not found!: DE_NUKE/NUKROOF01
+Material not found!: CS_ITALY/PCURB1
+Material not found!: MAPS/UPRISING/BASEWALL-8
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: BRICK/BRICKWALL008D
+Material not found!: STONE/STONEWALL030C
+Material not found!: WOOD/MILDOOR001SD
+Material not found!: DE_NUKE/NUKWINDOWD
+Material not found!: MAPS/UPRISING/BRICKWALL-2
+Material not found!: DE_NUKE/NUKFLOORA
+Material not found!: CS_ASSAULT/SUBWAY_TILEFLOOR_NONSLIP_DESAT
+Material not found!: BRICK/OFFWLLA
+Material not found!: MAPS/CONCRETE/BARE-1
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: BRICK/MORWLLB
+Material not found!: BRICK/HR_BRICK/BRICK_C1
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: DE_NUKE/NUKFLOORB
+Material not found!: CS_ITALY/P6WAL4
+Material not found!: BRICK/BRICKWALL036A
+Material not found!: BRICK/HR_BRICK/BRICK_G
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: BRICK/BRICKWALL027A
+Material not found!: MAPS/SOIL_PEBBLES/SOIL-13
+Material not found!: DE_CHATEAU/STAIRMARBLE01
+Material not found!: DE_CHATEAU/STAIRCONCRETE02
+Material not found!: NATURE/BLENDGRASSGRAVEL003A
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: DE_CHATEAU/STAIRWOOD01
+Material not found!: PLASTER/PLASTERWALL_010
+Material not found!: MAPS/MIS_LARGO/PLASTER_LARGO-04
+Material not found!: LIQUIDS/INFERNOWATER
+Material not found!: CS_HAVANA/CEILING02
+Material not found!: DE_PRODIGY/CEILING02
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: MAPS/CONCRETE/CONCRETE-19B
+Material not found!: MAPS/CONCRETE/CONCRETE-19C
+Material not found!: MAPS/SOIL_PEBBLES/SOIL-14
+Material not found!: TOOLS/TOOLSNODRAW_ROOF
+Material not found!: MAPS/WOOD/HUTPLANKS-2
+Material not found!: DE_CBBLE/WALLINTERIOR01
+Material not found!: COMPOSITE/BUILDINGSET041A
+Material not found!: CS_ITALY/STAIR-T01
+Material not found!: DE_CHATEAU/{CXGATE
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: METAL/METALDOOR025A
+Material not found!: GLASS/OFFWNDWB
+Material not found!: DEV/REM
+Material not found!: DEV/FESIUG
+Material not found!: WOOD/COUNTER01
+Material not found!: DEV/SIPLE
+Material not found!: DEV/DARSU
+Material not found!: CS_HAVANA/TUNNELPLASTER02
+Material not found!: DE_CHATEAU/CURTAIN01B
+Material not found!: TEST_SPEAKERS/BLACK
+Material not found!: DE_CHATEAU/SPEAKERSLG
+Material not found!: DE_PIRANESI/PI_INTRIMT2
+Material not found!: STONE/STONETRIM004A
+Material not found!: DE_CHATEAU/INTBRICKKTRIMA
+Material not found!: WOOD/MILWALL017
+Material not found!: COMPOSITE/BUILDINGSET023A
+Material not found!: BUILDINGS/GEN23
+Material not found!: DE_CHATEAU/CNSTRCTTARPB
+Material not found!: CS_ITALY/CEILING01
+Material not found!: COMPOSITE/BUILDINGSET050A
+Material not found!: BUILDINGS/GEN14
+Material not found!: COMPOSITE/BUILDINGSET057A
+Material not found!: CONCRETE/CONCRETEWALL044A
+Material not found!: GLASS/OFFLIGHTCOVER
+Material not found!: GLASS/PRODWNDWA
+Material not found!: NATURE/MILTREE001
+Material not found!: COMPOSITE/BUILDINGSET031A
+Material not found!: COMPOSITE/BUILDINGSET044A
+Material not found!: COMPOSITE/BUILDINGSET047A
+Material not found!: BUILDINGS/GEN15
+Material not found!: NATURE/MILTREE007
+Material not found!: BUILDINGS/GEN25
+Material not found!: BUILDINGS/GEN12
+Material not found!: BUILDINGS/GEN22
+Material not found!: BUILDINGS/GEN09
+Material not found!: BRICK/BRICKWALL019A
+Material not found!: BUILDINGS/GEN08
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING03
+Material not found!: BUILDINGS/GEN11
+Material not found!: DE_CBBLE/TRIM06
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: BUILDINGS/GEN01
+Material not found!: STONE/STONETRIM001A
+Material not found!: METAL/METALRAIL001A_OLD
+Material not found!: CS_ASSAULT/ASSAULT_TRAIN_SCHED01
+Material not found!: BUILDINGS/ANTN02
+Material not found!: BUILDINGS/GEN16
+Material not found!: BUILDINGS/GEN17
+Material not found!: COMPOSITE/BUILDINGSET022B
+Material not found!: DE_NUKE/NUKE_METALDOOR_01
+Material not found!: BUILDINGS/GEN18
+Material not found!: BUILDINGS/ANTN03
+Material not found!: WOOD/OFFDESKTOP
+Material not found!: WOOD/OFFDESKTOPSD
+Material not found!: METAL/OFFELEVDRSA
+Material not found!: METAL/METALRAIL011A
+Material not found!: TEST_SPEAKERS/CUWOODM
+Material not found!: DECALS/DECALMETALMANHOLE003A
+Material not found!: DE_PIRANESI/PI_SIGN03
+Material not found!: DE_DUST/MARKETWALL03
+Material not found!: BUILDINGS/GEN19
+Material not found!: COMPOSITE/BUILDINGSET038A
+Material not found!: BUILDINGS/ANTN04
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING04
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING02
+Material not found!: STONE/STONETRIM003A
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CS_HAVANA/TRMA
+Material not found!: CS_HAVANA/{FENCE3
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (1984, -1600, 16)
+env_cubemap pointing at deleted brushside near (1984, -1600, 16)
+env_cubemap pointing at deleted brushside near (3648, -864, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 870 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt...
+Building visibility clusters...
+done (0)
+Can't load skybox file skybox/sky_cloudy to build the default cubemap!
+Can't load skybox file skybox/sky_cloudy to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (8661222 bytes)
+Error loading studio model STATIC "models/props_vehicles/bus01_2.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa_chair.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockerbench.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_light_switch_001_b.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/spoolwire.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal3.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal1.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/clock.mdl"!
+Error loading studio model STATIC "models/props_foliage/tree_city01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/exit_ceiling.mdl"!
+Error loading studio model STATIC "models/props/cs_office/exit_wall.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/toilet.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/light_shop2.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/wall_light.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/industriallight01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_security.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/furniture_shelf01a.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/bar01.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/pot_big.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_roofbeams_01.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires1.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit02.mdl"!
+Error! prop_static using model "models/props_interiors/furniture_desk01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_interiors/furniture_desk01a.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_floodlights_01.mdl"!
+Error loading studio model STATIC "models/props/de_train/hr_t/modern_lights_lng_a/modern_lights_lng_a.mdl"!
+Error loading studio model STATIC "models/props/cs_italy/it_mkt_table2.mdl"!
+Error loading studio model STATIC "models/props_pipes/pipeset02d_256_001a.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/crate_extrasmall.mdl"!
+Error! prop_static using model "models/props_wasteland/controlroom_desk001b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_wasteland/controlroom_desk001b.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/file_cabinet1_group.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/shelves_wood.mdl"!
+Error loading studio model STATIC "models/props_foliage/mall_bush01.mdl"!
+Error loading studio model STATIC "models/props/de_dust/du_window_4x8_arch_flat.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_repeatable.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_top.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_signalbox_01.mdl"!
+Error loading studio model STATIC "models/props/de_train/light_security.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetlight.mdl"!
+Error loading studio model STATIC "models/props/de_train/railroadtracks256.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wirespout.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_dust/du_antenna_b.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wirepipe.mdl"!
+Error loading studio model STATIC "models/props/de_train/railroadtrackslong.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/ladderrung.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/pylon.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/floodlight.mdl"!
+Error loading studio model STATIC "models/props/coop_cementplant/coop_shooting_range/shooting_range_divider_wall.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/van_glass.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/van.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeams_02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error loading studio model STATIC "models/props/cs_italy/it_doora.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_bottom.mdl"!
+Error loading studio model STATIC "models/props_street/mail_dropbox.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/radiator01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf2.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf3.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf1.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_windowframe_04.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error! prop_static using model "models/props_c17/bench01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/bench01a.mdl"!
+Error loading studio model STATIC "models/props/de_chateau/light_chandelier02.mdl"!
+Error loading studio model STATIC "models/props/cs_havana/arch_c.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/railing02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetsign02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/noparking.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/electricalbox01.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/electricalbox02.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeam_01.mdl"!
+Error loading studio model STATIC "models/props_pipes/pipeset02d_corner128d_001a.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeams_01.mdl"!
+Error loading studio model STATIC "models/props_industrial/warehouse_shelf004.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockers001a.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/shelves.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/duct.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/showers.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct01.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/light_streetlight.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/nostopssign.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetsign01.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockers_long.mdl"!
+Error loading studio model STATIC "models/props/de_train/trainbumperpost.mdl"!
+Error loading studio model STATIC "models/props_rooftop/railing01a.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/handrailstairs02.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/fountain.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12781 texinfos to 7966
+Reduced 1079 texdatas to 872 (48700 bytes to 38034)
+Writing C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+17 seconds elapsed
+
+
+
+32 threads
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt
+2355 portalclusters
+4830 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 280691 visible clusters (13.94%)
+Total clusters visible: 2013662
+Average clusters visible: 855
+Building PAS...
+Average clusters audible: 1879
+visdatasize:1145765  compressed from 1394160
+writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+PREP OK
+23513 faces
+3 degenerate faces
+1687155 square feet [242950432.00 square inches]
+1487 Displacements
+25633 Square Feet [3691240.25 Square Inches]
+23510 patches before subdivision
+23510 patches after subdivision
+763 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4665372, max 1983
+transfer lists:  35.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(38523, 33785, 24168)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3457, 2826, 1621)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(608, 473, 219)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(134, 101, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 23, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0091 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+1 of 4 (25% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 413/4096        19824/196608   (10.1%) 
+brushes               7943/16384       95316/196608   (48.5%) 
+brushsides           55630/163840     445040/1310720  (34.0%) 
+planes               17966/65536      359320/1310720  (27.4%) 
+vertexes             38729/65536      464748/786432   (59.1%) 
+nodes                 8854/65536      283328/2097152  (13.5%) 
+texinfos              7966/16384      573552/1179648  (48.6%) 
+texdata                872/8192        27904/262144   (10.6%) 
+dispinfos             1487/0          261712/0        ( 0.0%) 
+disp_verts           38415/0          768300/0        ( 0.0%) 
+disp_tris            49792/0           99584/0        ( 0.0%) 
+disp_lmsamples       95134/0           95134/0        ( 0.0%) 
+faces                23513/65536     1316728/3670016  (35.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19518/65536     1093008/3670016  (29.8%) 
+leaves                9268/65536      296576/2097152  (14.1%) 
+leaffaces            25412/65536       50824/131072   (38.8%) 
+leafbrushes          13226/65536       26452/131072   (20.2%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges           194232/512000     776928/2048000  (37.9%) 
+edges               126997/256000     507988/1024000  (49.6%) 
+LDR worldlights        763/8192        67144/720896   ( 9.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           2577/32768       25770/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         54201/65536      108402/131072   (82.7%) VERY FULL!
+cubemapsamples         153/1024         2448/16384    (14.9%) 
+overlays               236/8192        83072/2883584  ( 2.9%) 
+LDR lightdata         [variable]     2632200/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1145765/16777216 ( 6.8%) 
+entdata               [variable]      911511/393216   (231.8%) VERY FULL!
+LDR ambient table     9268/65536       37072/262144   (14.1%) 
+HDR ambient table     9268/65536       37072/262144   (14.1%) 
+LDR leaf ambient     35112/65536      983136/1835008  (53.6%) 
+HDR leaf ambient      9268/65536      259504/1835008  (14.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/52860    ( 0.0%) 
+dtl prp lght          [variable]           1/904      ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/122508   ( 0.0%) 
+pakfile               [variable]      207725/0        ( 0.0%) 
+physics               [variable]     8661222/4194304  (206.5%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 69071
+Writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+56 seconds elapsed
+
+
+
+32 threads
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt
+2355 portalclusters
+4830 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 280691 visible clusters (13.94%)
+Total clusters visible: 2013662
+Average clusters visible: 855
+Building PAS...
+Average clusters audible: 1879
+visdatasize:1145765  compressed from 1394160
+writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+PREP OK
+23513 faces
+3 degenerate faces
+1687155 square feet [242950432.00 square inches]
+1487 Displacements
+25633 Square Feet [3691240.25 Square Inches]
+23510 patches before subdivision
+23510 patches after subdivision
+763 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4665372, max 1983
+transfer lists:  35.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(38523, 33785, 24168)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3457, 2826, 1621)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(608, 473, 219)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(134, 101, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 23, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0119 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+1 of 4 (25% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 413/4096        19824/196608   (10.1%) 
+brushes               7943/16384       95316/196608   (48.5%) 
+brushsides           55630/163840     445040/1310720  (34.0%) 
+planes               17966/65536      359320/1310720  (27.4%) 
+vertexes             38729/65536      464748/786432   (59.1%) 
+nodes                 8854/65536      283328/2097152  (13.5%) 
+texinfos              7966/16384      573552/1179648  (48.6%) 
+texdata                872/8192        27904/262144   (10.6%) 
+dispinfos             1487/0          261712/0        ( 0.0%) 
+disp_verts           38415/0          768300/0        ( 0.0%) 
+disp_tris            49792/0           99584/0        ( 0.0%) 
+disp_lmsamples       95134/0           95134/0        ( 0.0%) 
+faces                23513/65536     1316728/3670016  (35.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19518/65536     1093008/3670016  (29.8%) 
+leaves                9268/65536      296576/2097152  (14.1%) 
+leaffaces            25412/65536       50824/131072   (38.8%) 
+leafbrushes          13226/65536       26452/131072   (20.2%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges           194232/512000     776928/2048000  (37.9%) 
+edges               126997/256000     507988/1024000  (49.6%) 
+LDR worldlights        763/8192        67144/720896   ( 9.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           2577/32768       25770/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         54201/65536      108402/131072   (82.7%) VERY FULL!
+cubemapsamples         153/1024         2448/16384    (14.9%) 
+overlays               236/8192        83072/2883584  ( 2.9%) 
+LDR lightdata         [variable]     2632200/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1145765/16777216 ( 6.8%) 
+entdata               [variable]      911511/393216   (231.8%) VERY FULL!
+LDR ambient table     9268/65536       37072/262144   (14.1%) 
+HDR ambient table     9268/65536       37072/262144   (14.1%) 
+LDR leaf ambient     35112/65536      983136/1835008  (53.6%) 
+HDR leaf ambient      9268/65536      259504/1835008  (14.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/52860    ( 0.0%) 
+dtl prp lght          [variable]           1/904      ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/122508   ( 0.0%) 
+pakfile               [variable]      207725/0        ( 0.0%) 
+physics               [variable]     8661222/4194304  (206.5%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 69071
+Writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+56 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.vmf
+Material not found!: PLASTER/INFINTWLLA
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: MAPS/WOOD/FLOORING-5
+Material not found!: CONCRETE/OLDCONCRETE_033
+Material not found!: CONCRETE/OLDCONCRETE_045
+Material not found!: MAPS/CEILING/OFFICE_TILE-2
+Material not found!: MAPS/PLASTER/WHITE-1
+Material not found!: BRICK/HR_BRICK/VENICE/VENICE_BRICK_4
+Material not found!: CONCRETE/HR_C/HR_CONC_D
+Material not found!: CS_HAVANA/IFLRD
+Material not found!: MAPS/TILES/TILE-47
+Material not found!: CARPET/OFFFLRA
+Material not found!: DE_PIRANESI/MARBLEFLOOR01
+Material not found!: BRICK/BRICK_001
+Material not found!: STONE/STONETRIM002A
+Material not found!: MAPS/STREETS_SIDEWALKS/ASPHALT-15
+Material not found!: CONCRETE/HR_C/HR_CONC_PILLAR_A_DIRTY
+Material not found!: BRICK/HR_BRICK/BRICK_H1
+Material not found!: BRICK/HR_BRICK/BRICK_G2
+Material not found!: MAPS/UPRISING/BASEFLOOR-2
+Material not found!: MAPS/WOOD/HUTPLANKS-1
+Material not found!: MAPS/TRIMMINGS/CONCRETE-1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: TILE/HR_T/INFERNO/TILE_B
+Material not found!: CONCRETE/VERTIGO_CONCRETEFLOORA
+Material not found!: CONCRETE/HR_C/HR_CONC_D2
+Material not found!: CS_ITALY/PIPE_WALL4_3
+Material not found!: DE_DUST/RESIDBWALL03
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CBBLE/WALLINTERIOR01A
+Material not found!: CS_HAVANA/TRMB
+Material not found!: BRICK/HR_BRICK/INFERNO/BRICK_D1
+Material not found!: DE_DUST/SITEBWALL02
+Material not found!: PLASTER/PLASTERWALL_011
+Material not found!: CS_ITALY/PCON2
+Material not found!: MAPS/CONSTRUCTION/CONCRETEWALL-1
+Material not found!: DE_DUST/DOOR02
+Material not found!: DE_DUST/RESIDWALL02
+Material not found!: DE_PIRANESI/MARBLEFLOOR10
+Material not found!: CS_ASSAULT/LEFTCURB001
+Material not found!: CS_ASSAULT/RIGHTCURB001
+Material not found!: MAPS/CONCRETE/SLABS-1
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: CS_ITALY/MARKETWALL01E
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ASSAULT/ASSAULT_BRICK2A
+Material not found!: CS_HAVANA/TRMD
+Material not found!: CS_HAVANA/WLLU01
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: TILE/TILE_WALL_002
+Material not found!: DE_CHATEAU/EXTTRIM07
+Material not found!: CS_HAVANA/TRMF
+Material not found!: WOOD/WOODDOOR026A
+Material not found!: TILE/HR_T/TILES_B
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: PLASTER/OFFWLLB
+Material not found!: BRICK/HR_BRICK/BRICK_H
+Material not found!: CONCRETE/OLDCONCRETE_057
+Material not found!: CS_ITALY/DOOR_SN01
+Material not found!: DE_NUKE/NUKROOF01
+Material not found!: CS_ITALY/PCURB1
+Material not found!: MAPS/UPRISING/BASEWALL-8
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: BRICK/BRICKWALL008D
+Material not found!: STONE/STONEWALL030C
+Material not found!: WOOD/MILDOOR001SD
+Material not found!: DE_NUKE/NUKWINDOWD
+Material not found!: MAPS/UPRISING/BRICKWALL-2
+Material not found!: DE_NUKE/NUKFLOORA
+Material not found!: CS_ASSAULT/SUBWAY_TILEFLOOR_NONSLIP_DESAT
+Material not found!: BRICK/OFFWLLA
+Material not found!: MAPS/CONCRETE/BARE-1
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: BRICK/MORWLLB
+Material not found!: BRICK/HR_BRICK/BRICK_C1
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: DE_NUKE/NUKFLOORB
+Material not found!: CS_ITALY/P6WAL4
+Material not found!: BRICK/BRICKWALL036A
+Material not found!: BRICK/HR_BRICK/BRICK_G
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: BRICK/BRICKWALL027A
+Material not found!: MAPS/SOIL_PEBBLES/SOIL-13
+Material not found!: DE_CHATEAU/STAIRMARBLE01
+Material not found!: DE_CHATEAU/STAIRCONCRETE02
+Material not found!: NATURE/BLENDGRASSGRAVEL003A
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: DE_CHATEAU/STAIRWOOD01
+Material not found!: PLASTER/PLASTERWALL_010
+Material not found!: MAPS/MIS_LARGO/PLASTER_LARGO-04
+Material not found!: LIQUIDS/INFERNOWATER
+Material not found!: CS_HAVANA/CEILING02
+Material not found!: DE_PRODIGY/CEILING02
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: MAPS/CONCRETE/CONCRETE-19B
+Material not found!: MAPS/CONCRETE/CONCRETE-19C
+Material not found!: MAPS/SOIL_PEBBLES/SOIL-14
+Material not found!: TOOLS/TOOLSNODRAW_ROOF
+Material not found!: MAPS/WOOD/HUTPLANKS-2
+Material not found!: DE_CBBLE/WALLINTERIOR01
+Material not found!: COMPOSITE/BUILDINGSET041A
+Material not found!: CS_ITALY/STAIR-T01
+Material not found!: DE_CHATEAU/{CXGATE
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: METAL/METALDOOR025A
+Material not found!: GLASS/OFFWNDWB
+Material not found!: DEV/REM
+Material not found!: DEV/FESIUG
+Material not found!: WOOD/COUNTER01
+Material not found!: DEV/SIPLE
+Material not found!: DEV/DARSU
+Material not found!: CS_HAVANA/TUNNELPLASTER02
+Material not found!: DE_CHATEAU/CURTAIN01B
+Material not found!: TEST_SPEAKERS/BLACK
+Material not found!: DE_CHATEAU/SPEAKERSLG
+Material not found!: DE_PIRANESI/PI_INTRIMT2
+Material not found!: STONE/STONETRIM004A
+Material not found!: DE_CHATEAU/INTBRICKKTRIMA
+Material not found!: WOOD/MILWALL017
+Material not found!: COMPOSITE/BUILDINGSET023A
+Material not found!: BUILDINGS/GEN23
+Material not found!: DE_CHATEAU/CNSTRCTTARPB
+Material not found!: CS_ITALY/CEILING01
+Material not found!: COMPOSITE/BUILDINGSET050A
+Material not found!: BUILDINGS/GEN14
+Material not found!: COMPOSITE/BUILDINGSET057A
+Material not found!: CONCRETE/CONCRETEWALL044A
+Material not found!: GLASS/OFFLIGHTCOVER
+Material not found!: GLASS/PRODWNDWA
+Material not found!: NATURE/MILTREE001
+Material not found!: COMPOSITE/BUILDINGSET031A
+Material not found!: COMPOSITE/BUILDINGSET044A
+Material not found!: COMPOSITE/BUILDINGSET047A
+Material not found!: BUILDINGS/GEN15
+Material not found!: NATURE/MILTREE007
+Material not found!: BUILDINGS/GEN25
+Material not found!: BUILDINGS/GEN12
+Material not found!: BUILDINGS/GEN22
+Material not found!: BUILDINGS/GEN09
+Material not found!: BRICK/BRICKWALL019A
+Material not found!: BUILDINGS/GEN08
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING03
+Material not found!: BUILDINGS/GEN11
+Material not found!: DE_CBBLE/TRIM06
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: BUILDINGS/GEN01
+Material not found!: STONE/STONETRIM001A
+Material not found!: METAL/METALRAIL001A_OLD
+Material not found!: CS_ASSAULT/ASSAULT_TRAIN_SCHED01
+Material not found!: BUILDINGS/ANTN02
+Material not found!: BUILDINGS/GEN16
+Material not found!: BUILDINGS/GEN17
+Material not found!: COMPOSITE/BUILDINGSET022B
+Material not found!: DE_NUKE/NUKE_METALDOOR_01
+Material not found!: BUILDINGS/GEN18
+Material not found!: BUILDINGS/ANTN03
+Material not found!: WOOD/OFFDESKTOP
+Material not found!: WOOD/OFFDESKTOPSD
+Material not found!: METAL/OFFELEVDRSA
+Material not found!: METAL/METALRAIL011A
+Material not found!: TEST_SPEAKERS/CUWOODM
+Material not found!: DECALS/DECALMETALMANHOLE003A
+Material not found!: DE_PIRANESI/PI_SIGN03
+Material not found!: DE_DUST/MARKETWALL03
+Material not found!: BUILDINGS/GEN19
+Material not found!: COMPOSITE/BUILDINGSET038A
+Material not found!: BUILDINGS/ANTN04
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING04
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING02
+Material not found!: STONE/STONETRIM003A
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CS_HAVANA/TRMA
+Material not found!: CS_HAVANA/{FENCE3
+Error loading studio model STATIC "models/props_vehicles/bus01_2.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa_chair.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockerbench.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_light_switch_001_b.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/spoolwire.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal3.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal1.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/clock.mdl"!
+Error loading studio model STATIC "models/props_foliage/tree_city01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/exit_ceiling.mdl"!
+Error loading studio model STATIC "models/props/cs_office/exit_wall.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/toilet.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/light_shop2.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/wall_light.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/industriallight01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_security.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/furniture_shelf01a.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/bar01.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/pot_big.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_roofbeams_01.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires1.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit02.mdl"!
+Error! prop_static using model "models/props_interiors/furniture_desk01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_interiors/furniture_desk01a.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_floodlights_01.mdl"!
+Error loading studio model STATIC "models/props/de_train/hr_t/modern_lights_lng_a/modern_lights_lng_a.mdl"!
+Error loading studio model STATIC "models/props/cs_italy/it_mkt_table2.mdl"!
+Error loading studio model STATIC "models/props_pipes/pipeset02d_256_001a.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/crate_extrasmall.mdl"!
+Error! prop_static using model "models/props_wasteland/controlroom_desk001b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_wasteland/controlroom_desk001b.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/file_cabinet1_group.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/shelves_wood.mdl"!
+Error loading studio model STATIC "models/props_foliage/mall_bush01.mdl"!
+Error loading studio model STATIC "models/props/de_dust/du_window_4x8_arch_flat.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_repeatable.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_top.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_signalbox_01.mdl"!
+Error loading studio model STATIC "models/props/de_train/light_security.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetlight.mdl"!
+Error loading studio model STATIC "models/props/de_train/railroadtracks256.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wirespout.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_dust/du_antenna_b.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wirepipe.mdl"!
+Error loading studio model STATIC "models/props/de_train/railroadtrackslong.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/ladderrung.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/pylon.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/floodlight.mdl"!
+Error loading studio model STATIC "models/props/coop_cementplant/coop_shooting_range/shooting_range_divider_wall.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/van_glass.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/van.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeams_02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error loading studio model STATIC "models/props/cs_italy/it_doora.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_bottom.mdl"!
+Error loading studio model STATIC "models/props_street/mail_dropbox.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/radiator01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf2.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf3.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf1.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_windowframe_04.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error! prop_static using model "models/props_c17/bench01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/bench01a.mdl"!
+Error loading studio model STATIC "models/props/de_chateau/light_chandelier02.mdl"!
+Error loading studio model STATIC "models/props/cs_havana/arch_c.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/railing02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetsign02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/noparking.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/electricalbox01.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/electricalbox02.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeam_01.mdl"!
+Error loading studio model STATIC "models/props_pipes/pipeset02d_corner128d_001a.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeams_01.mdl"!
+Error loading studio model STATIC "models/props_industrial/warehouse_shelf004.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockers001a.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/shelves.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/duct.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/showers.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct01.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/light_streetlight.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/nostopssign.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetsign01.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockers_long.mdl"!
+Error loading studio model STATIC "models/props/de_train/trainbumperpost.mdl"!
+Error loading studio model STATIC "models/props_rooftop/railing01a.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/handrailstairs02.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/fountain.mdl"!
+2 seconds elapsed
+
+
+
+32 threads
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt
+LoadPortals: couldn't read c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.vmf
+Material not found!: PLASTER/INFINTWLLA
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: MAPS/WOOD/FLOORING-5
+Material not found!: CONCRETE/OLDCONCRETE_033
+Material not found!: CONCRETE/OLDCONCRETE_045
+Material not found!: MAPS/CEILING/OFFICE_TILE-2
+Material not found!: MAPS/PLASTER/WHITE-1
+Material not found!: BRICK/HR_BRICK/VENICE/VENICE_BRICK_4
+Material not found!: CONCRETE/HR_C/HR_CONC_D
+Material not found!: CS_HAVANA/IFLRD
+Material not found!: MAPS/TILES/TILE-47
+Material not found!: CARPET/OFFFLRA
+Material not found!: DE_PIRANESI/MARBLEFLOOR01
+Material not found!: BRICK/BRICK_001
+Material not found!: STONE/STONETRIM002A
+Material not found!: MAPS/STREETS_SIDEWALKS/ASPHALT-15
+Material not found!: CONCRETE/HR_C/HR_CONC_PILLAR_A_DIRTY
+Material not found!: BRICK/HR_BRICK/BRICK_H1
+Material not found!: BRICK/HR_BRICK/BRICK_G2
+Material not found!: MAPS/UPRISING/BASEFLOOR-2
+Material not found!: MAPS/WOOD/HUTPLANKS-1
+Material not found!: MAPS/TRIMMINGS/CONCRETE-1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: TILE/HR_T/INFERNO/TILE_B
+Material not found!: CONCRETE/VERTIGO_CONCRETEFLOORA
+Material not found!: CONCRETE/HR_C/HR_CONC_D2
+Material not found!: CS_ITALY/PIPE_WALL4_3
+Material not found!: DE_DUST/RESIDBWALL03
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CBBLE/WALLINTERIOR01A
+Material not found!: CS_HAVANA/TRMB
+Material not found!: BRICK/HR_BRICK/INFERNO/BRICK_D1
+Material not found!: DE_DUST/SITEBWALL02
+Material not found!: PLASTER/PLASTERWALL_011
+Material not found!: CS_ITALY/PCON2
+Material not found!: MAPS/CONSTRUCTION/CONCRETEWALL-1
+Material not found!: DE_DUST/DOOR02
+Material not found!: DE_DUST/RESIDWALL02
+Material not found!: DE_PIRANESI/MARBLEFLOOR10
+Material not found!: CS_ASSAULT/LEFTCURB001
+Material not found!: CS_ASSAULT/RIGHTCURB001
+Material not found!: MAPS/CONCRETE/SLABS-1
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: CS_ITALY/MARKETWALL01E
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ASSAULT/ASSAULT_BRICK2A
+Material not found!: CS_HAVANA/TRMD
+Material not found!: CS_HAVANA/WLLU01
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: TILE/TILE_WALL_002
+Material not found!: DE_CHATEAU/EXTTRIM07
+Material not found!: CS_HAVANA/TRMF
+Material not found!: WOOD/WOODDOOR026A
+Material not found!: TILE/HR_T/TILES_B
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: PLASTER/OFFWLLB
+Material not found!: BRICK/HR_BRICK/BRICK_H
+Material not found!: CONCRETE/OLDCONCRETE_057
+Material not found!: CS_ITALY/DOOR_SN01
+Material not found!: DE_NUKE/NUKROOF01
+Material not found!: CS_ITALY/PCURB1
+Material not found!: MAPS/UPRISING/BASEWALL-8
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: BRICK/BRICKWALL008D
+Material not found!: STONE/STONEWALL030C
+Material not found!: WOOD/MILDOOR001SD
+Material not found!: DE_NUKE/NUKWINDOWD
+Material not found!: MAPS/UPRISING/BRICKWALL-2
+Material not found!: DE_NUKE/NUKFLOORA
+Material not found!: CS_ASSAULT/SUBWAY_TILEFLOOR_NONSLIP_DESAT
+Material not found!: BRICK/OFFWLLA
+Material not found!: MAPS/CONCRETE/BARE-1
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: BRICK/MORWLLB
+Material not found!: BRICK/HR_BRICK/BRICK_C1
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: DE_NUKE/NUKFLOORB
+Material not found!: CS_ITALY/P6WAL4
+Material not found!: BRICK/BRICKWALL036A
+Material not found!: BRICK/HR_BRICK/BRICK_G
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: BRICK/BRICKWALL027A
+Material not found!: MAPS/SOIL_PEBBLES/SOIL-13
+Material not found!: DE_CHATEAU/STAIRMARBLE01
+Material not found!: DE_CHATEAU/STAIRCONCRETE02
+Material not found!: NATURE/BLENDGRASSGRAVEL003A
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: DE_CHATEAU/STAIRWOOD01
+Material not found!: PLASTER/PLASTERWALL_010
+Material not found!: MAPS/MIS_LARGO/PLASTER_LARGO-04
+Material not found!: LIQUIDS/INFERNOWATER
+Material not found!: CS_HAVANA/CEILING02
+Material not found!: DE_PRODIGY/CEILING02
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: MAPS/CONCRETE/CONCRETE-19B
+Material not found!: MAPS/CONCRETE/CONCRETE-19C
+Material not found!: MAPS/SOIL_PEBBLES/SOIL-14
+Material not found!: TOOLS/TOOLSNODRAW_ROOF
+Material not found!: MAPS/WOOD/HUTPLANKS-2
+Material not found!: DE_CBBLE/WALLINTERIOR01
+Material not found!: COMPOSITE/BUILDINGSET041A
+Material not found!: CS_ITALY/STAIR-T01
+Material not found!: DE_CHATEAU/{CXGATE
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: METAL/METALDOOR025A
+Material not found!: GLASS/OFFWNDWB
+Material not found!: DEV/REM
+Material not found!: DEV/FESIUG
+Material not found!: WOOD/COUNTER01
+Material not found!: DEV/SIPLE
+Material not found!: DEV/DARSU
+Material not found!: CS_HAVANA/TUNNELPLASTER02
+Material not found!: DE_CHATEAU/CURTAIN01B
+Material not found!: TEST_SPEAKERS/BLACK
+Material not found!: DE_CHATEAU/SPEAKERSLG
+Material not found!: DE_PIRANESI/PI_INTRIMT2
+Material not found!: STONE/STONETRIM004A
+Material not found!: DE_CHATEAU/INTBRICKKTRIMA
+Material not found!: WOOD/MILWALL017
+Material not found!: COMPOSITE/BUILDINGSET023A
+Material not found!: BUILDINGS/GEN23
+Material not found!: DE_CHATEAU/CNSTRCTTARPB
+Material not found!: CS_ITALY/CEILING01
+Material not found!: COMPOSITE/BUILDINGSET050A
+Material not found!: BUILDINGS/GEN14
+Material not found!: COMPOSITE/BUILDINGSET057A
+Material not found!: CONCRETE/CONCRETEWALL044A
+Material not found!: GLASS/OFFLIGHTCOVER
+Material not found!: GLASS/PRODWNDWA
+Material not found!: NATURE/MILTREE001
+Material not found!: COMPOSITE/BUILDINGSET031A
+Material not found!: COMPOSITE/BUILDINGSET044A
+Material not found!: COMPOSITE/BUILDINGSET047A
+Material not found!: BUILDINGS/GEN15
+Material not found!: NATURE/MILTREE007
+Material not found!: BUILDINGS/GEN25
+Material not found!: BUILDINGS/GEN12
+Material not found!: BUILDINGS/GEN22
+Material not found!: BUILDINGS/GEN09
+Material not found!: BRICK/BRICKWALL019A
+Material not found!: BUILDINGS/GEN08
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING03
+Material not found!: BUILDINGS/GEN11
+Material not found!: DE_CBBLE/TRIM06
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: BUILDINGS/GEN01
+Material not found!: STONE/STONETRIM001A
+Material not found!: METAL/METALRAIL001A_OLD
+Material not found!: CS_ASSAULT/ASSAULT_TRAIN_SCHED01
+Material not found!: BUILDINGS/ANTN02
+Material not found!: BUILDINGS/GEN16
+Material not found!: BUILDINGS/GEN17
+Material not found!: COMPOSITE/BUILDINGSET022B
+Material not found!: DE_NUKE/NUKE_METALDOOR_01
+Material not found!: BUILDINGS/GEN18
+Material not found!: BUILDINGS/ANTN03
+Material not found!: WOOD/OFFDESKTOP
+Material not found!: WOOD/OFFDESKTOPSD
+Material not found!: METAL/OFFELEVDRSA
+Material not found!: METAL/METALRAIL011A
+Material not found!: TEST_SPEAKERS/CUWOODM
+Material not found!: DECALS/DECALMETALMANHOLE003A
+Material not found!: DE_PIRANESI/PI_SIGN03
+Material not found!: DE_DUST/MARKETWALL03
+Material not found!: BUILDINGS/GEN19
+Material not found!: COMPOSITE/BUILDINGSET038A
+Material not found!: BUILDINGS/ANTN04
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING04
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING02
+Material not found!: STONE/STONETRIM003A
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CS_HAVANA/TRMA
+Material not found!: CS_HAVANA/{FENCE3
+Error loading studio model STATIC "models/props_vehicles/bus01_2.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa_chair.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockerbench.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_light_switch_001_b.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/spoolwire.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal3.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal1.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/clock.mdl"!
+Error loading studio model STATIC "models/props_foliage/tree_city01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/exit_ceiling.mdl"!
+Error loading studio model STATIC "models/props/cs_office/exit_wall.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/toilet.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/light_shop2.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/wall_light.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/industriallight01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_security.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/furniture_shelf01a.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/bar01.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/pot_big.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_roofbeams_01.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires1.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit02.mdl"!
+Error! prop_static using model "models/props_interiors/furniture_desk01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_interiors/furniture_desk01a.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_floodlights_01.mdl"!
+Error loading studio model STATIC "models/props/de_train/hr_t/modern_lights_lng_a/modern_lights_lng_a.mdl"!
+Error loading studio model STATIC "models/props/cs_italy/it_mkt_table2.mdl"!
+Error loading studio model STATIC "models/props_pipes/pipeset02d_256_001a.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/crate_extrasmall.mdl"!
+Error! prop_static using model "models/props_wasteland/controlroom_desk001b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_wasteland/controlroom_desk001b.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/file_cabinet1_group.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/shelves_wood.mdl"!
+Error loading studio model STATIC "models/props_foliage/mall_bush01.mdl"!
+Error loading studio model STATIC "models/props/de_dust/du_window_4x8_arch_flat.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_repeatable.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_top.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_signalbox_01.mdl"!
+Error loading studio model STATIC "models/props/de_train/light_security.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetlight.mdl"!
+Error loading studio model STATIC "models/props/de_train/railroadtracks256.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wirespout.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_dust/du_antenna_b.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wirepipe.mdl"!
+Error loading studio model STATIC "models/props/de_train/railroadtrackslong.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/ladderrung.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/pylon.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/floodlight.mdl"!
+Error loading studio model STATIC "models/props/coop_cementplant/coop_shooting_range/shooting_range_divider_wall.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/van_glass.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/van.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeams_02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error loading studio model STATIC "models/props/cs_italy/it_doora.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_bottom.mdl"!
+Error loading studio model STATIC "models/props_street/mail_dropbox.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/radiator01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf2.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf3.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf1.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_windowframe_04.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error! prop_static using model "models/props_c17/bench01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/bench01a.mdl"!
+Error loading studio model STATIC "models/props/de_chateau/light_chandelier02.mdl"!
+Error loading studio model STATIC "models/props/cs_havana/arch_c.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/railing02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetsign02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/noparking.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/electricalbox01.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/electricalbox02.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeam_01.mdl"!
+Error loading studio model STATIC "models/props_pipes/pipeset02d_corner128d_001a.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeams_01.mdl"!
+Error loading studio model STATIC "models/props_industrial/warehouse_shelf004.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockers001a.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/shelves.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/duct.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/showers.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct01.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/light_streetlight.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/nostopssign.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetsign01.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockers_long.mdl"!
+Error loading studio model STATIC "models/props/de_train/trainbumperpost.mdl"!
+Error loading studio model STATIC "models/props_rooftop/railing01a.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/handrailstairs02.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/fountain.mdl"!
+2 seconds elapsed
+
+
+
+32 threads
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt
+LoadPortals: couldn't read c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.vmf
+Material not found!: PLASTER/INFINTWLLA
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: MAPS/WOOD/FLOORING-5
+Material not found!: CONCRETE/OLDCONCRETE_033
+Material not found!: CONCRETE/OLDCONCRETE_045
+Material not found!: MAPS/CEILING/OFFICE_TILE-2
+Material not found!: MAPS/PLASTER/WHITE-1
+Material not found!: BRICK/HR_BRICK/VENICE/VENICE_BRICK_4
+Material not found!: CONCRETE/HR_C/HR_CONC_D
+Material not found!: CS_HAVANA/IFLRD
+Material not found!: MAPS/TILES/TILE-47
+Material not found!: CARPET/OFFFLRA
+Material not found!: DE_PIRANESI/MARBLEFLOOR01
+Material not found!: BRICK/BRICK_001
+Material not found!: STONE/STONETRIM002A
+Material not found!: MAPS/STREETS_SIDEWALKS/ASPHALT-15
+Material not found!: CONCRETE/HR_C/HR_CONC_PILLAR_A_DIRTY
+Material not found!: BRICK/HR_BRICK/BRICK_H1
+Material not found!: BRICK/HR_BRICK/BRICK_G2
+Material not found!: MAPS/UPRISING/BASEFLOOR-2
+Material not found!: MAPS/WOOD/HUTPLANKS-1
+Material not found!: MAPS/TRIMMINGS/CONCRETE-1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: TILE/HR_T/INFERNO/TILE_B
+Material not found!: CONCRETE/VERTIGO_CONCRETEFLOORA
+Material not found!: CONCRETE/HR_C/HR_CONC_D2
+Material not found!: CS_ITALY/PIPE_WALL4_3
+Material not found!: DE_DUST/RESIDBWALL03
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CBBLE/WALLINTERIOR01A
+Material not found!: CS_HAVANA/TRMB
+Material not found!: BRICK/HR_BRICK/INFERNO/BRICK_D1
+Material not found!: DE_DUST/SITEBWALL02
+Material not found!: PLASTER/PLASTERWALL_011
+Material not found!: CS_ITALY/PCON2
+Material not found!: MAPS/CONSTRUCTION/CONCRETEWALL-1
+Material not found!: DE_DUST/DOOR02
+Material not found!: DE_DUST/RESIDWALL02
+Material not found!: DE_PIRANESI/MARBLEFLOOR10
+Material not found!: CS_ASSAULT/LEFTCURB001
+Material not found!: CS_ASSAULT/RIGHTCURB001
+Material not found!: MAPS/CONCRETE/SLABS-1
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: CS_ITALY/MARKETWALL01E
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ASSAULT/ASSAULT_BRICK2A
+Material not found!: CS_HAVANA/TRMD
+Material not found!: CS_HAVANA/WLLU01
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: TILE/TILE_WALL_002
+Material not found!: DE_CHATEAU/EXTTRIM07
+Material not found!: CS_HAVANA/TRMF
+Material not found!: WOOD/WOODDOOR026A
+Material not found!: TILE/HR_T/TILES_B
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: PLASTER/OFFWLLB
+Material not found!: BRICK/HR_BRICK/BRICK_H
+Material not found!: CONCRETE/OLDCONCRETE_057
+Material not found!: CS_ITALY/DOOR_SN01
+Material not found!: DE_NUKE/NUKROOF01
+Material not found!: CS_ITALY/PCURB1
+Material not found!: MAPS/UPRISING/BASEWALL-8
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: BRICK/BRICKWALL008D
+Material not found!: STONE/STONEWALL030C
+Material not found!: WOOD/MILDOOR001SD
+Material not found!: DE_NUKE/NUKWINDOWD
+Material not found!: MAPS/UPRISING/BRICKWALL-2
+Material not found!: DE_NUKE/NUKFLOORA
+Material not found!: CS_ASSAULT/SUBWAY_TILEFLOOR_NONSLIP_DESAT
+Material not found!: BRICK/OFFWLLA
+Material not found!: MAPS/CONCRETE/BARE-1
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: BRICK/MORWLLB
+Material not found!: BRICK/HR_BRICK/BRICK_C1
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: DE_NUKE/NUKFLOORB
+Material not found!: CS_ITALY/P6WAL4
+Material not found!: BRICK/BRICKWALL036A
+Material not found!: BRICK/HR_BRICK/BRICK_G
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: BRICK/BRICKWALL027A
+Material not found!: MAPS/SOIL_PEBBLES/SOIL-13
+Material not found!: DE_CHATEAU/STAIRMARBLE01
+Material not found!: DE_CHATEAU/STAIRCONCRETE02
+Material not found!: NATURE/BLENDGRASSGRAVEL003A
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: DE_CHATEAU/STAIRWOOD01
+Material not found!: PLASTER/PLASTERWALL_010
+Material not found!: MAPS/MIS_LARGO/PLASTER_LARGO-04
+Material not found!: LIQUIDS/INFERNOWATER
+Material not found!: CS_HAVANA/CEILING02
+Material not found!: DE_PRODIGY/CEILING02
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: MAPS/CONCRETE/CONCRETE-19B
+Material not found!: MAPS/CONCRETE/CONCRETE-19C
+Material not found!: MAPS/SOIL_PEBBLES/SOIL-14
+Material not found!: TOOLS/TOOLSNODRAW_ROOF
+Material not found!: MAPS/WOOD/HUTPLANKS-2
+Material not found!: DE_CBBLE/WALLINTERIOR01
+Material not found!: COMPOSITE/BUILDINGSET041A
+Material not found!: CS_ITALY/STAIR-T01
+Material not found!: DE_CHATEAU/{CXGATE
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: METAL/METALDOOR025A
+Material not found!: GLASS/OFFWNDWB
+Material not found!: DEV/REM
+Material not found!: DEV/FESIUG
+Material not found!: WOOD/COUNTER01
+Material not found!: DEV/SIPLE
+Material not found!: DEV/DARSU
+Material not found!: CS_HAVANA/TUNNELPLASTER02
+Material not found!: DE_CHATEAU/CURTAIN01B
+Material not found!: TEST_SPEAKERS/BLACK
+Material not found!: DE_CHATEAU/SPEAKERSLG
+Material not found!: DE_PIRANESI/PI_INTRIMT2
+Material not found!: STONE/STONETRIM004A
+Material not found!: DE_CHATEAU/INTBRICKKTRIMA
+Material not found!: WOOD/MILWALL017
+Material not found!: COMPOSITE/BUILDINGSET023A
+Material not found!: BUILDINGS/GEN23
+Material not found!: DE_CHATEAU/CNSTRCTTARPB
+Material not found!: CS_ITALY/CEILING01
+Material not found!: COMPOSITE/BUILDINGSET050A
+Material not found!: BUILDINGS/GEN14
+Material not found!: COMPOSITE/BUILDINGSET057A
+Material not found!: CONCRETE/CONCRETEWALL044A
+Material not found!: GLASS/OFFLIGHTCOVER
+Material not found!: GLASS/PRODWNDWA
+Material not found!: NATURE/MILTREE001
+Material not found!: COMPOSITE/BUILDINGSET031A
+Material not found!: COMPOSITE/BUILDINGSET044A
+Material not found!: COMPOSITE/BUILDINGSET047A
+Material not found!: BUILDINGS/GEN15
+Material not found!: NATURE/MILTREE007
+Material not found!: BUILDINGS/GEN25
+Material not found!: BUILDINGS/GEN12
+Material not found!: BUILDINGS/GEN22
+Material not found!: BUILDINGS/GEN09
+Material not found!: BRICK/BRICKWALL019A
+Material not found!: BUILDINGS/GEN08
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING03
+Material not found!: BUILDINGS/GEN11
+Material not found!: DE_CBBLE/TRIM06
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: BUILDINGS/GEN01
+Material not found!: STONE/STONETRIM001A
+Material not found!: METAL/METALRAIL001A_OLD
+Material not found!: CS_ASSAULT/ASSAULT_TRAIN_SCHED01
+Material not found!: BUILDINGS/ANTN02
+Material not found!: BUILDINGS/GEN16
+Material not found!: BUILDINGS/GEN17
+Material not found!: COMPOSITE/BUILDINGSET022B
+Material not found!: DE_NUKE/NUKE_METALDOOR_01
+Material not found!: BUILDINGS/GEN18
+Material not found!: BUILDINGS/ANTN03
+Material not found!: WOOD/OFFDESKTOP
+Material not found!: WOOD/OFFDESKTOPSD
+Material not found!: METAL/OFFELEVDRSA
+Material not found!: METAL/METALRAIL011A
+Material not found!: TEST_SPEAKERS/CUWOODM
+Material not found!: DECALS/DECALMETALMANHOLE003A
+Material not found!: DE_PIRANESI/PI_SIGN03
+Material not found!: DE_DUST/MARKETWALL03
+Material not found!: BUILDINGS/GEN19
+Material not found!: COMPOSITE/BUILDINGSET038A
+Material not found!: BUILDINGS/ANTN04
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING04
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING02
+Material not found!: STONE/STONETRIM003A
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CS_HAVANA/TRMA
+Material not found!: CS_HAVANA/{FENCE3
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (1984, -1600, 16)
+env_cubemap pointing at deleted brushside near (1984, -1600, 16)
+env_cubemap pointing at deleted brushside near (3648, -864, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 870 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt...
+Building visibility clusters...
+done (0)
+Can't load skybox file skybox/sky_cloudy to build the default cubemap!
+Can't load skybox file skybox/sky_cloudy to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (8661216 bytes)
+Error loading studio model STATIC "models/props_vehicles/bus01_2.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa_chair.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockerbench.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_light_switch_001_b.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/spoolwire.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal3.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal1.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/clock.mdl"!
+Error loading studio model STATIC "models/props_foliage/tree_city01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/exit_ceiling.mdl"!
+Error loading studio model STATIC "models/props/cs_office/exit_wall.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/toilet.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/light_shop2.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/wall_light.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/industriallight01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_security.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/furniture_shelf01a.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/bar01.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/pot_big.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_roofbeams_01.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires1.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit02.mdl"!
+Error! prop_static using model "models/props_interiors/furniture_desk01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_interiors/furniture_desk01a.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_floodlights_01.mdl"!
+Error loading studio model STATIC "models/props/de_train/hr_t/modern_lights_lng_a/modern_lights_lng_a.mdl"!
+Error loading studio model STATIC "models/props/cs_italy/it_mkt_table2.mdl"!
+Error loading studio model STATIC "models/props_pipes/pipeset02d_256_001a.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/crate_extrasmall.mdl"!
+Error! prop_static using model "models/props_wasteland/controlroom_desk001b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_wasteland/controlroom_desk001b.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/file_cabinet1_group.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/shelves_wood.mdl"!
+Error loading studio model STATIC "models/props_foliage/mall_bush01.mdl"!
+Error loading studio model STATIC "models/props/de_dust/du_window_4x8_arch_flat.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_repeatable.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_top.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_signalbox_01.mdl"!
+Error loading studio model STATIC "models/props/de_train/light_security.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetlight.mdl"!
+Error loading studio model STATIC "models/props/de_train/railroadtracks256.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wirespout.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_dust/du_antenna_b.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wirepipe.mdl"!
+Error loading studio model STATIC "models/props/de_train/railroadtrackslong.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/ladderrung.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/pylon.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/floodlight.mdl"!
+Error loading studio model STATIC "models/props/coop_cementplant/coop_shooting_range/shooting_range_divider_wall.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/van_glass.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/van.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeams_02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error loading studio model STATIC "models/props/cs_italy/it_doora.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_bottom.mdl"!
+Error loading studio model STATIC "models/props_street/mail_dropbox.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/radiator01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf2.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf3.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf1.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_windowframe_04.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error! prop_static using model "models/props_c17/bench01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/bench01a.mdl"!
+Error loading studio model STATIC "models/props/de_chateau/light_chandelier02.mdl"!
+Error loading studio model STATIC "models/props/cs_havana/arch_c.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/railing02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetsign02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/noparking.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/electricalbox01.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/electricalbox02.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeam_01.mdl"!
+Error loading studio model STATIC "models/props_pipes/pipeset02d_corner128d_001a.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeams_01.mdl"!
+Error loading studio model STATIC "models/props_industrial/warehouse_shelf004.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockers001a.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/shelves.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/duct.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/showers.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct01.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/light_streetlight.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/nostopssign.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetsign01.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockers_long.mdl"!
+Error loading studio model STATIC "models/props/de_train/trainbumperpost.mdl"!
+Error loading studio model STATIC "models/props_rooftop/railing01a.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/handrailstairs02.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/fountain.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12784 texinfos to 7968
+Reduced 1081 texdatas to 874 (48834 bytes to 38168)
+Writing C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+18 seconds elapsed
+
+
+
+32 threads
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt
+2355 portalclusters
+4830 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 280691 visible clusters (13.94%)
+Total clusters visible: 2013662
+Average clusters visible: 855
+Building PAS...
+Average clusters audible: 1879
+visdatasize:1145765  compressed from 1394160
+writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+PREP OK
+23519 faces
+3 degenerate faces
+1687487 square feet [242998144.00 square inches]
+1487 Displacements
+25633 Square Feet [3691240.25 Square Inches]
+23516 patches before subdivision
+23516 patches after subdivision
+763 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4667726, max 1983
+transfer lists:  35.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(38530, 33790, 24172)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3457, 2826, 1621)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(608, 473, 219)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(134, 101, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 23, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0126 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+1 of 4 (25% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.vmf
+Material not found!: PLASTER/INFINTWLLA
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: MAPS/WOOD/FLOORING-5
+Material not found!: CONCRETE/OLDCONCRETE_033
+Material not found!: CONCRETE/OLDCONCRETE_045
+Material not found!: MAPS/CEILING/OFFICE_TILE-2
+Material not found!: MAPS/PLASTER/WHITE-1
+Material not found!: BRICK/HR_BRICK/VENICE/VENICE_BRICK_4
+Material not found!: CONCRETE/HR_C/HR_CONC_D
+Material not found!: CS_HAVANA/IFLRD
+Material not found!: MAPS/TILES/TILE-47
+Material not found!: CARPET/OFFFLRA
+Material not found!: DE_PIRANESI/MARBLEFLOOR01
+Material not found!: BRICK/BRICK_001
+Material not found!: STONE/STONETRIM002A
+Material not found!: MAPS/STREETS_SIDEWALKS/ASPHALT-15
+Material not found!: CONCRETE/HR_C/HR_CONC_PILLAR_A_DIRTY
+Material not found!: BRICK/HR_BRICK/BRICK_H1
+Material not found!: BRICK/HR_BRICK/BRICK_G2
+Material not found!: MAPS/UPRISING/BASEFLOOR-2
+Material not found!: MAPS/WOOD/HUTPLANKS-1
+Material not found!: MAPS/TRIMMINGS/CONCRETE-1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: TILE/HR_T/INFERNO/TILE_B
+Material not found!: CONCRETE/VERTIGO_CONCRETEFLOORA
+Material not found!: CONCRETE/HR_C/HR_CONC_D2
+Material not found!: CS_ITALY/PIPE_WALL4_3
+Material not found!: DE_DUST/RESIDBWALL03
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CBBLE/WALLINTERIOR01A
+Material not found!: CS_HAVANA/TRMB
+Material not found!: BRICK/HR_BRICK/INFERNO/BRICK_D1
+Material not found!: DE_DUST/SITEBWALL02
+Material not found!: PLASTER/PLASTERWALL_011
+Material not found!: CS_ITALY/PCON2
+Material not found!: MAPS/CONSTRUCTION/CONCRETEWALL-1
+Material not found!: DE_DUST/DOOR02
+Material not found!: DE_DUST/RESIDWALL02
+Material not found!: DE_PIRANESI/MARBLEFLOOR10
+Material not found!: CS_ASSAULT/LEFTCURB001
+Material not found!: CS_ASSAULT/RIGHTCURB001
+Material not found!: MAPS/CONCRETE/SLABS-1
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: CS_ITALY/MARKETWALL01E
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ASSAULT/ASSAULT_BRICK2A
+Material not found!: CS_HAVANA/TRMD
+Material not found!: CS_HAVANA/WLLU01
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: TILE/TILE_WALL_002
+Material not found!: DE_CHATEAU/EXTTRIM07
+Material not found!: CS_HAVANA/TRMF
+Material not found!: WOOD/WOODDOOR026A
+Material not found!: TILE/HR_T/TILES_B
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: PLASTER/OFFWLLB
+Material not found!: BRICK/HR_BRICK/BRICK_H
+Material not found!: CONCRETE/OLDCONCRETE_057
+Material not found!: CS_ITALY/DOOR_SN01
+Material not found!: DE_NUKE/NUKROOF01
+Material not found!: CS_ITALY/PCURB1
+Material not found!: MAPS/UPRISING/BASEWALL-8
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: BRICK/BRICKWALL008D
+Material not found!: STONE/STONEWALL030C
+Material not found!: WOOD/MILDOOR001SD
+Material not found!: DE_NUKE/NUKWINDOWD
+Material not found!: MAPS/UPRISING/BRICKWALL-2
+Material not found!: DE_NUKE/NUKFLOORA
+Material not found!: CS_ASSAULT/SUBWAY_TILEFLOOR_NONSLIP_DESAT
+Material not found!: BRICK/OFFWLLA
+Material not found!: MAPS/CONCRETE/BARE-1
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: BRICK/MORWLLB
+Material not found!: BRICK/HR_BRICK/BRICK_C1
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: DE_NUKE/NUKFLOORB
+Material not found!: CS_ITALY/P6WAL4
+Material not found!: BRICK/BRICKWALL036A
+Material not found!: BRICK/HR_BRICK/BRICK_G
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: BRICK/BRICKWALL027A
+Material not found!: MAPS/SOIL_PEBBLES/SOIL-13
+Material not found!: DE_CHATEAU/STAIRMARBLE01
+Material not found!: DE_CHATEAU/STAIRCONCRETE02
+Material not found!: NATURE/BLENDGRASSGRAVEL003A
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: DE_CHATEAU/STAIRWOOD01
+Material not found!: PLASTER/PLASTERWALL_010
+Material not found!: MAPS/MIS_LARGO/PLASTER_LARGO-04
+Material not found!: LIQUIDS/INFERNOWATER
+Material not found!: CS_HAVANA/CEILING02
+Material not found!: DE_PRODIGY/CEILING02
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: MAPS/CONCRETE/CONCRETE-19B
+Material not found!: MAPS/CONCRETE/CONCRETE-19C
+Material not found!: MAPS/SOIL_PEBBLES/SOIL-14
+Material not found!: TOOLS/TOOLSNODRAW_ROOF
+Material not found!: MAPS/WOOD/HUTPLANKS-2
+Material not found!: DE_CBBLE/WALLINTERIOR01
+Material not found!: COMPOSITE/BUILDINGSET041A
+Material not found!: CS_ITALY/STAIR-T01
+Material not found!: DE_CHATEAU/{CXGATE
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: METAL/METALDOOR025A
+Material not found!: GLASS/OFFWNDWB
+Material not found!: DEV/REM
+Material not found!: DEV/FESIUG
+Material not found!: WOOD/COUNTER01
+Material not found!: DEV/SIPLE
+Material not found!: DEV/DARSU
+Material not found!: CS_HAVANA/TUNNELPLASTER02
+Material not found!: DE_CHATEAU/CURTAIN01B
+Material not found!: TEST_SPEAKERS/BLACK
+Material not found!: DE_CHATEAU/SPEAKERSLG
+Material not found!: DE_PIRANESI/PI_INTRIMT2
+Material not found!: STONE/STONETRIM004A
+Material not found!: DE_CHATEAU/INTBRICKKTRIMA
+Material not found!: WOOD/MILWALL017
+Material not found!: COMPOSITE/BUILDINGSET023A
+Material not found!: BUILDINGS/GEN23
+Material not found!: DE_CHATEAU/CNSTRCTTARPB
+Material not found!: CS_ITALY/CEILING01
+Material not found!: COMPOSITE/BUILDINGSET050A
+Material not found!: BUILDINGS/GEN14
+Material not found!: COMPOSITE/BUILDINGSET057A
+Material not found!: CONCRETE/CONCRETEWALL044A
+Material not found!: GLASS/OFFLIGHTCOVER
+Material not found!: GLASS/PRODWNDWA
+Material not found!: NATURE/MILTREE001
+Material not found!: COMPOSITE/BUILDINGSET031A
+Material not found!: COMPOSITE/BUILDINGSET044A
+Material not found!: COMPOSITE/BUILDINGSET047A
+Material not found!: BUILDINGS/GEN15
+Material not found!: NATURE/MILTREE007
+Material not found!: BUILDINGS/GEN25
+Material not found!: BUILDINGS/GEN12
+Material not found!: BUILDINGS/GEN22
+Material not found!: BUILDINGS/GEN09
+Material not found!: BRICK/BRICKWALL019A
+Material not found!: BUILDINGS/GEN08
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING03
+Material not found!: BUILDINGS/GEN11
+Material not found!: DE_CBBLE/TRIM06
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: BUILDINGS/GEN01
+Material not found!: STONE/STONETRIM001A
+Material not found!: METAL/METALRAIL001A_OLD
+Material not found!: CS_ASSAULT/ASSAULT_TRAIN_SCHED01
+Material not found!: BUILDINGS/ANTN02
+Material not found!: BUILDINGS/GEN16
+Material not found!: BUILDINGS/GEN17
+Material not found!: COMPOSITE/BUILDINGSET022B
+Material not found!: DE_NUKE/NUKE_METALDOOR_01
+Material not found!: BUILDINGS/GEN18
+Material not found!: BUILDINGS/ANTN03
+Material not found!: WOOD/OFFDESKTOP
+Material not found!: WOOD/OFFDESKTOPSD
+Material not found!: METAL/OFFELEVDRSA
+Material not found!: METAL/METALRAIL011A
+Material not found!: TEST_SPEAKERS/CUWOODM
+Material not found!: DECALS/DECALMETALMANHOLE003A
+Material not found!: DE_PIRANESI/PI_SIGN03
+Material not found!: DE_DUST/MARKETWALL03
+Material not found!: BUILDINGS/GEN19
+Material not found!: COMPOSITE/BUILDINGSET038A
+Material not found!: BUILDINGS/ANTN04
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING04
+Material not found!: CS_ASSAULT/ASSAULT_SKYBOX_BUILDING02
+Material not found!: STONE/STONETRIM003A
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CS_HAVANA/TRMA
+Material not found!: CS_HAVANA/{FENCE3
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (1984, -1600, 16)
+env_cubemap pointing at deleted brushside near (1984, -1600, 16)
+env_cubemap pointing at deleted brushside near (3648, -864, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 870 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt...
+Building visibility clusters...
+done (0)
+Can't load skybox file skybox/sky_cloudy to build the default cubemap!
+Can't load skybox file skybox/sky_cloudy to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (8661216 bytes)
+Error loading studio model STATIC "models/props_vehicles/bus01_2.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa_chair.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockerbench.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_light_switch_001_b.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/spoolwire.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal3.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal1.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/clock.mdl"!
+Error loading studio model STATIC "models/props_foliage/tree_city01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/exit_ceiling.mdl"!
+Error loading studio model STATIC "models/props/cs_office/exit_wall.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/toilet.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/light_shop2.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/wall_light.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/industriallight01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_security.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/furniture_shelf01a.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/bar01.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/pot_big.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_roofbeams_01.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires1.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit02.mdl"!
+Error! prop_static using model "models/props_interiors/furniture_desk01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_interiors/furniture_desk01a.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_floodlights_01.mdl"!
+Error loading studio model STATIC "models/props/de_train/hr_t/modern_lights_lng_a/modern_lights_lng_a.mdl"!
+Error loading studio model STATIC "models/props/cs_italy/it_mkt_table2.mdl"!
+Error loading studio model STATIC "models/props_pipes/pipeset02d_256_001a.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/crate_extrasmall.mdl"!
+Error! prop_static using model "models/props_wasteland/controlroom_desk001b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_wasteland/controlroom_desk001b.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/file_cabinet1_group.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/shelves_wood.mdl"!
+Error loading studio model STATIC "models/props_foliage/mall_bush01.mdl"!
+Error loading studio model STATIC "models/props/de_dust/du_window_4x8_arch_flat.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_repeatable.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_top.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_signalbox_01.mdl"!
+Error loading studio model STATIC "models/props/de_train/light_security.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetlight.mdl"!
+Error loading studio model STATIC "models/props/de_train/railroadtracks256.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wirespout.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_dust/du_antenna_b.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wirepipe.mdl"!
+Error loading studio model STATIC "models/props/de_train/railroadtrackslong.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/ladderrung.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/pylon.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/floodlight.mdl"!
+Error loading studio model STATIC "models/props/coop_cementplant/coop_shooting_range/shooting_range_divider_wall.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/van_glass.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/van.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeams_02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error loading studio model STATIC "models/props/cs_italy/it_doora.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/fireescape_bottom.mdl"!
+Error loading studio model STATIC "models/props_street/mail_dropbox.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/radiator01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf2.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf3.mdl"!
+Error loading studio model STATIC "models/props/cs_office/bookshelf1.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_windowframe_04.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error! prop_static using model "models/props_c17/bench01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/bench01a.mdl"!
+Error loading studio model STATIC "models/props/de_chateau/light_chandelier02.mdl"!
+Error loading studio model STATIC "models/props/cs_havana/arch_c.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/railing02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetsign02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/noparking.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/electricalbox01.mdl"!
+Error loading studio model STATIC "models/props/de_nuke/electricalbox02.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeam_01.mdl"!
+Error loading studio model STATIC "models/props_pipes/pipeset02d_corner128d_001a.mdl"!
+Error loading studio model STATIC "models/props/de_train/de_train_ibeams_01.mdl"!
+Error loading studio model STATIC "models/props_industrial/warehouse_shelf004.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockers001a.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/shelves.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/duct.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/showers.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct01.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/light_streetlight.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/nostopssign.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/streetsign01.mdl"!
+Error loading studio model STATIC "models/props/de_train/lockers_long.mdl"!
+Error loading studio model STATIC "models/props/de_train/trainbumperpost.mdl"!
+Error loading studio model STATIC "models/props_rooftop/railing01a.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/handrailstairs02.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/fountain.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12783 texinfos to 7967
+Reduced 1080 texdatas to 873 (48767 bytes to 38101)
+Writing C:\Users\mohao\Documents\Hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+18 seconds elapsed
+
+
+
+32 threads
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt
+2355 portalclusters
+4830 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 280691 visible clusters (13.94%)
+Total clusters visible: 2013662
+Average clusters visible: 855
+Building PAS...
+Average clusters audible: 1879
+visdatasize:1145765  compressed from 1394160
+writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+PREP OK
+23516 faces
+3 degenerate faces
+1687321 square feet [242974272.00 square inches]
+1487 Displacements
+25633 Square Feet [3691240.25 Square Inches]
+23513 patches before subdivision
+23513 patches after subdivision
+763 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4667691, max 1983
+transfer lists:  35.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(38530, 33790, 24172)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3457, 2826, 1621)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(608, 473, 219)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(134, 101, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(32, 23, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0103 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+1 of 4 (25% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 413/4096        19824/196608   (10.1%) 
+brushes               7943/16384       95316/196608   (48.5%) 
+brushsides           55630/163840     445040/1310720  (34.0%) 
+planes               17966/65536      359320/1310720  (27.4%) 
+vertexes             38729/65536      464748/786432   (59.1%) 
+nodes                 8854/65536      283328/2097152  (13.5%) 
+texinfos              7967/16384      573624/1179648  (48.6%) 
+texdata                873/8192        27936/262144   (10.7%) 
+dispinfos             1487/0          261712/0        ( 0.0%) 
+disp_verts           38415/0          768300/0        ( 0.0%) 
+disp_tris            49792/0           99584/0        ( 0.0%) 
+disp_lmsamples       95134/0           95134/0        ( 0.0%) 
+faces                23516/65536     1316896/3670016  (35.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19521/65536     1093176/3670016  (29.8%) 
+leaves                9268/65536      296576/2097152  (14.1%) 
+leaffaces            25415/65536       50830/131072   (38.8%) 
+leafbrushes          13226/65536       26452/131072   (20.2%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges           194256/512000     777024/2048000  (37.9%) 
+edges               127021/256000     508084/1024000  (49.6%) 
+LDR worldlights        763/8192        67144/720896   ( 9.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           2577/32768       25770/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         54201/65536      108402/131072   (82.7%) VERY FULL!
+cubemapsamples         153/1024         2448/16384    (14.9%) 
+overlays               236/8192        83072/2883584  ( 2.9%) 
+LDR lightdata         [variable]     2632852/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1145765/16777216 ( 6.8%) 
+entdata               [variable]      911511/393216   (231.8%) VERY FULL!
+LDR ambient table     9268/65536       37072/262144   (14.1%) 
+HDR ambient table     9268/65536       37072/262144   (14.1%) 
+LDR leaf ambient     35142/65536      983976/1835008  (53.6%) 
+HDR leaf ambient      9268/65536      259504/1835008  (14.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/52860    ( 0.0%) 
+dtl prp lght          [variable]           1/904      ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/122508   ( 0.0%) 
+pakfile               [variable]      208606/0        ( 0.0%) 
+physics               [variable]     8661216/4194304  (206.5%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 69077
+Writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+56 seconds elapsed
