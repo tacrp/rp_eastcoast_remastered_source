@@ -14157,3 +14157,384 @@ Level flags = 0
 Total triangle count: 70482
 Writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
 26 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: CS_ASSAULT/ASSAULT_BRICK2A
+Material not found!: CS_HAVANA/WLLU01
+Material not found!: NATURE/BLENDGRASSGRAVEL003A
+Material not found!: DE_PRODIGY/CEILING02
+Material not found!: TOOLS/TOOLSNODRAW_ROOF
+Material not found!: TEST_SPEAKERS/BLACK
+Material not found!: CS_HAVANA/TRMA
+Material not found!: TEST_SPEAKERS/CUWOODM
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (1984, -1600, 16)
+env_cubemap pointing at deleted brushside near (1984, -1600, 16)
+env_cubemap pointing at deleted brushside near (3648, -864, 32)
+Multiple references for cubemap on texture maps/rp_eastcoast_remaster/glass/offwndwb_-2944_896_64!!!
+Multiple references for cubemap on texture maps/rp_eastcoast_remaster/glass/offwndwb_-2944_896_64!!!
+Multiple references for cubemap on texture maps/rp_eastcoast_remaster/glass/offwndwb_-2944_896_64!!!
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 872 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_cloudy*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_cloudy*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (8682293 bytes)
+Error! prop_static using model "models/props_interiors/furniture_desk01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_interiors/furniture_desk01a.mdl"!
+Error! prop_static using model "models/props_c17/bench01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/bench01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 14817 texinfos to 8239
+Reduced 1594 texdatas to 1159 (81138 bytes to 57576)
+Writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+12 seconds elapsed
+
+
+
+32 threads
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+reading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt
+2396 portalclusters
+4933 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4270 visible clusters (1.03%)
+Total clusters visible: 413702
+Average clusters visible: 172
+Building PAS...
+Average clusters audible: 804
+visdatasize:673448  compressed from 1456768
+writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+PREP OK
+Warning! Invalid model version "models/props/de_train/lockers001a.mdl"
+Warning! Invalid model version "models/props_foliage/tree_city01.mdl"
+Warning! Invalid model version "models/props/cs_office/shelves_metal.mdl"
+Warning! Invalid model version "models/props/de_train/de_train_signalbox_01.mdl"
+Warning! Invalid model version "models/props_rooftop/scaffolding01a.mdl"
+Warning! Invalid model version "models/props_vents/vent_medium_grill001.mdl"
+Warning! Invalid model version "models/props_vents/vent_medium_straight001.mdl"
+Warning! Invalid model version "models/props/cs_assault/wall_wires1.mdl"
+Warning! Invalid model version "models/props/cs_assault/streetlight.mdl"
+Warning! Invalid model version "models/props/cs_office/light_security.mdl"
+Warning! Invalid model version "models/props_c17/fence01a.mdl"
+Warning! Invalid model version "models/props/cs_italy/it_doora.mdl"
+Warning! Invalid model version "models/props_c17/lamppost03a_off.mdl"
+Warning! Invalid model version "models/props_c17/metalladder002.mdl"
+Warning! Invalid model version "models/props_c17/handrail04_long.mdl"
+Warning! Invalid model version "models/props_c17/handrail04_short.mdl"
+Warning! Invalid model version "models/props_c17/handrail04_medium.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset08d_corner128l_001a.mdl"
+Warning! Invalid model version "models/props_wasteland/prison_pipes002a.mdl"
+Warning! Invalid model version "models/props_lab/pipesystem02b.mdl"
+Warning! Invalid model version "models/props_lab/powerbox02d.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset08d_256_001a.mdl"
+Warning! Invalid model version "models/props_c17/fence03a.mdl"
+Warning! Invalid model version "models/props_trainstation/bench_indoor001a.mdl"
+Warning! Invalid model version "models/props/cs_assault/wirepipe.mdl"
+Warning! Invalid model version "models/props_pipes/interiorpipecluster02a.mdl"
+Warning! Invalid model version "models/props_wasteland/prison_switchbox001a.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset32d_256_001a.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset32d_corner128r_001a.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset32d_512_001a.mdl"
+Warning! Invalid model version "models/props_street/mail_dropbox.mdl"
+Warning! Invalid model version "models/props/cs_office/shelves_metal1.mdl"
+Warning! Invalid model version "models/props_foliage/tree_deciduous_card_01_skybox.mdl"
+Warning! Invalid model version "models/props_c17/light_domelight02_on.mdl"
+Warning! Invalid model version "models/props_interiors/lightbulb01a.mdl"
+Warning! Invalid model version "models/props/cs_militia/toilet.mdl"
+Warning! Invalid model version "models/props_interiors/lights_florescent01a.mdl"
+Warning! Invalid model version "models/props/cs_assault/light_shop2.mdl"
+Warning! Invalid model version "models/props/de_nuke/wall_light.mdl"
+Warning! Invalid model version "models/props/de_nuke/floodlight.mdl"
+Warning! Invalid model version "models/props/de_nuke/industriallight01.mdl"
+Warning! Invalid model version "models/props_vents/vent_cluster007.mdl"
+Warning! Invalid model version "models/props/cs_militia/furniture_shelf01a.mdl"
+Warning! Invalid model version "models/props/cs_militia/bar01.mdl"
+Warning! Invalid model version "models/props/de_inferno/ceiling_light.mdl"
+Warning! Invalid model version "models/props_vents/vent_large_grill001.mdl"
+Warning! Invalid model version "models/props/de_inferno/pot_big.mdl"
+Warning! Invalid model version "models/props/cs_office/sofa.mdl"
+Warning! Invalid model version "models/props_c17/gate_door01a.mdl"
+Warning! Invalid model version "models/props/de_train/de_train_roofbeams_01.mdl"
+Warning! Invalid model version "models/props/cs_assault/acunit02.mdl"
+Warning! Invalid model version "models/props/de_train/de_train_floodlights_01.mdl"
+Warning! Invalid model version "models/props/de_train/hr_t/modern_lights_lng_a/modern_lights_lng_a.mdl"
+Warning! Invalid model version "models/props_c17/handrail04_singlerise.mdl"
+Warning! Invalid model version "models/props/cs_assault/pylon.mdl"
+Warning! Invalid model version "models/props/de_nuke/crate_extrasmall.mdl"
+Warning! Invalid model version "models/props_c17/substation_transformer01a.mdl"
+Warning! Invalid model version "models/props/cs_militia/ladderrung.mdl"
+Warning! Invalid model version "models/props_c17/furnituresink001a.mdl"
+Warning! Invalid model version "models/props_c17/awning001a.mdl"
+Warning! Invalid model version "models/props/cs_office/exit_wall.mdl"
+Warning! Invalid model version "models/props_pipes/gutter_576_001a.mdl"
+Warning! Invalid model version "models/props_foliage/mall_bush01.mdl"
+Warning! Invalid model version "models/props/de_train/light_security.mdl"
+Warning! Invalid model version "models/props/de_train/railroadtrackslong.mdl"
+Warning! Invalid model version "models/props_wasteland/exterior_fence002b.mdl"
+Warning! Invalid model version "models/props_wasteland/exterior_fence003a.mdl"
+Warning! Invalid model version "models/props_wasteland/exterior_fence002c.mdl"
+Warning! Invalid model version "models/props_wasteland/prison_bracket001a.mdl"
+Warning! Invalid model version "models/props/cs_assault/wall_wires2.mdl"
+Warning! Invalid model version "models/props_rooftop/satellitedish02.mdl"
+Warning! Invalid model version "models/props/de_dust/du_antenna_b.mdl"
+Warning! Invalid model version "models/props/cs_assault/wirespout.mdl"
+Warning! Invalid model version "models/props_rooftop/roof_vent003.mdl"
+Warning! Invalid model version "models/props_rooftop/roof_vent001.mdl"
+Warning! Invalid model version "models/props/de_train/railroadtracks256.mdl"
+Warning! Invalid model version "models/props_c17/gasmeter003a.mdl"
+Warning! Invalid model version "models/props_junk/garbage256_composite002b.mdl"
+Warning! Invalid model version "models/props_pipes/pipecluster08d_003a.mdl"
+Warning! Invalid model version "models/props_junk/garbage256_composite001a.mdl"
+Warning! Invalid model version "models/props_pipes/gutter_384_002a.mdl"
+Warning! Invalid model version "models/props/de_dust/du_window_4x8_arch_flat.mdl"
+Warning! Invalid model version "models/props_junk/garbage128_composite001b.mdl"
+Warning! Invalid model version "models/props_junk/garbage128_composite001a.mdl"
+Warning! Invalid model version "models/props/coop_cementplant/coop_shooting_range/shooting_range_divider_wall.mdl"
+Warning! Invalid model version "models/props/cs_militia/van_glass.mdl"
+Warning! Invalid model version "models/props/cs_militia/van.mdl"
+Warning! Invalid model version "models/props/de_train/de_train_ibeams_02.mdl"
+Warning! Invalid model version "models/props/cs_assault/duct.mdl"
+Warning! Invalid model version "models/props/cs_assault/camera.mdl"
+Warning! Invalid model version "models/props_lab/pipesystem01a.mdl"
+Warning! Invalid model version "models/props_pipes/gutter_512_001a.mdl"
+Warning! Invalid model version "models/props/cs_militia/shelves_wood.mdl"
+Warning! Invalid model version "models/props/de_nuke/file_cabinet1_group.mdl"
+Warning! Invalid model version "models/props/cs_office/exit_ceiling.mdl"
+Warning! Invalid model version "models/props/de_inferno/fountain.mdl"
+Warning! Invalid model version "models/props_c17/gasmeter001a.mdl"
+Warning! Invalid model version "models/props_c17/gaspipes006a.mdl"
+Warning! Invalid model version "models/props_lab/powerbox02b.mdl"
+Warning! Invalid model version "models/props_c17/fence02a.mdl"
+Warning! Invalid model version "models/props/de_inferno/handrailstairs02.mdl"
+Warning! Invalid model version "models/props_c17/awning002a.mdl"
+Warning! Invalid model version "models/props_rooftop/antennaclusters01a.mdl"
+Warning! Invalid model version "models/props/de_nuke/electricalbox02.mdl"
+Warning! Invalid model version "models/props/de_train/trainbumperpost.mdl"
+Warning! Invalid model version "models/props_c17/fence01b.mdl"
+Warning! Invalid model version "models/props/de_train/lockers_long.mdl"
+Warning! Invalid model version "models/props_lab/powerbox01a.mdl"
+Warning! Invalid model version "models/props_rooftop/chimneytoppipe_cluster01c.mdl"
+Warning! Invalid model version "models/props/cs_assault/streetsign01.mdl"
+Warning! Invalid model version "models/props/cs_assault/nostopssign.mdl"
+Warning! Invalid model version "models/props_c17/furniturepipecluster001a.mdl"
+Warning! Invalid model version "models/props_c17/furnitureboiler001a.mdl"
+Warning! Invalid model version "models/props_c17/furnitureshelf002a.mdl"
+Warning! Invalid model version "models/props/de_inferno/radiator01a.mdl"
+Warning! Invalid model version "models/props_pipes/gutter_256_001a.mdl"
+Warning! Invalid model version "models/props_pipes/gutter_384_001a.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset08d_corner128r_001a.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset08d_128_001a.mdl"
+Warning! Invalid model version "models/props_wasteland/controlroom_desk001b.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset02d_256_001a.mdl"
+Warning! Invalid model version "models/props/cs_italy/it_mkt_table2.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset08d_64_001a.mdl"
+Warning! Invalid model version "models/props/cs_office/shelves_metal2.mdl"
+Warning! Invalid model version "models/props/cs_militia/table_shed.mdl"
+Warning! Invalid model version "models/props/cs_office/bookshelf2.mdl"
+Warning! Invalid model version "models/props/cs_office/bookshelf3.mdl"
+Warning! Invalid model version "models/props/cs_office/bookshelf1.mdl"
+Warning! Invalid model version "models/props/de_train/de_train_windowframe_04.mdl"
+Warning! Invalid model version "models/props/cs_assault/ventilationduct02.mdl"
+Warning! Invalid model version "models/props_canal/rock_riverbed02a.mdl"
+Warning! Invalid model version "models/props_vehicles/bus01_2.mdl"
+Warning! Invalid model version "models/props/cs_assault/streetsign02.mdl"
+Warning! Invalid model version "models/props/cs_assault/noparking.mdl"
+Warning! Invalid model version "models/props/cs_assault/acunit01.mdl"
+Warning! Invalid model version "models/props_wasteland/exterior_fence001a.mdl"
+Warning! Invalid model version "models/props_rooftop/roof_vent002.mdl"
+Warning! Invalid model version "models/props_interiors/sinkkitchen01a.mdl"
+Warning! Invalid model version "models/props/cs_militia/couch.mdl"
+Warning! Invalid model version "models/props_pipes/pipe03_tjoint01.mdl"
+Warning! Invalid model version "models/props_wasteland/exterior_fence002a.mdl"
+Warning! Invalid model version "models/props_wasteland/exterior_fence002e.mdl"
+Warning! Invalid model version "models/props_wasteland/exterior_fence002d.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset08d_corner128d_001a.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset08d_512_001a.mdl"
+Warning! Invalid model version "models/props_pipes/pipe03_lcurve02_long.mdl"
+Warning! Invalid model version "models/props_pipes/pipe03_connector01.mdl"
+Warning! Invalid model version "models/props_wasteland/interior_fence002e.mdl"
+Warning! Invalid model version "models/props_wasteland/interior_fence002b.mdl"
+Warning! Invalid model version "models/props/de_nuke/electricalbox01.mdl"
+Warning! Invalid model version "models/props_wasteland/interior_fence002c.mdl"
+Warning! Invalid model version "models/props/de_train/de_train_ibeam_01.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset02d_corner128d_001a.mdl"
+Warning! Invalid model version "models/props_pipes/pipe03_straight01_long.mdl"
+Warning! Invalid model version "models/props/de_train/de_train_ibeams_01.mdl"
+Warning! Invalid model version "models/props/de_nuke/clock.mdl"
+Warning! Invalid model version "models/props_industrial/warehouse_shelf004.mdl"
+Warning! Invalid model version "models/props_vents/vent_cluster006.mdl"
+Warning! Invalid model version "models/props/cs_militia/shelves.mdl"
+Warning! Invalid model version "models/props_rooftop/antenna03a.mdl"
+Warning! Invalid model version "models/props_wasteland/prison_sprinkler001a.mdl"
+Warning! Invalid model version "models/props_lab/pipesystem02d.mdl"
+Warning! Invalid model version "models/props_lab/pipesystem02c.mdl"
+Warning! Invalid model version "models/props_lab/powerbox02a.mdl"
+Warning! Invalid model version "models/props_pipes/pipeset32d_corner128d_001a.mdl"
+Warning! Invalid model version "models/props_pipes/gutter_448_001a.mdl"
+Warning! Invalid model version "models/props_pipes/pipecluster32d_001a.mdl"
+Warning! Invalid model version "models/props/de_inferno/light_streetlight.mdl"
+Warning! Invalid model version "models/props/de_train/lockerbench.mdl"
+Warning! Invalid model version "models/props/cs_militia/showers.mdl"
+Warning! Invalid model version "models/props/cs_office/sofa_chair.mdl"
+Warning! Invalid model version "models/props_wasteland/speakercluster01a.mdl"
+Warning! Invalid model version "models/props/cs_assault/ventilationduct01.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_light_switch_001_b.mdl"
+23959 faces
+3 degenerate faces
+1700280 square feet [244840368.00 square inches]
+1487 Displacements
+25633 Square Feet [3691240.50 Square Inches]
+23956 patches before subdivision
+148226 patches after subdivision
+795 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 21977705, max 2022
+transfer lists: 167.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(643970, 590304, 446107)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(132648, 112872, 72293)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(33074, 26741, 14989)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9810, 7707, 3869)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3166, 2403, 1084)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1102, 807, 327)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(401, 280, 102)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(152, 101, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(59, 37, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(24, 14, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(10, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(4, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0341 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+1 of 36 (2% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 426/4096        20448/196608   (10.4%) 
+brushes               7985/16384       95820/196608   (48.7%) 
+brushsides           55876/163840     447008/1310720  (34.1%) 
+planes               18754/65536      375080/1310720  (28.6%) 
+vertexes             39683/65536      476196/786432   (60.6%) 
+nodes                 9466/65536      302912/2097152  (14.4%) 
+texinfos              8239/16384      593208/1179648  (50.3%) 
+texdata               1159/8192        37088/262144   (14.1%) 
+dispinfos             1487/0          261712/0        ( 0.0%) 
+disp_verts           38415/0          768300/0        ( 0.0%) 
+disp_tris            49792/0           99584/0        ( 0.0%) 
+disp_lmsamples       95134/0           95134/0        ( 0.0%) 
+faces                23959/65536     1341704/3670016  (36.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19565/65536     1095640/3670016  (29.9%) 
+leaves                9893/65536      316576/2097152  (15.1%) 
+leaffaces            26130/65536       52260/131072   (39.9%) 
+leafbrushes          13426/65536       26852/131072   (20.5%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges           196730/512000     786920/2048000  (38.4%) 
+edges               128335/256000     513340/1024000  (50.1%) 
+LDR worldlights        795/8192        69960/720896   ( 9.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           2705/32768       27050/327680   ( 8.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         56391/65536      112782/131072   (86.0%) VERY FULL!
+cubemapsamples         158/1024         2528/16384    (15.4%) 
+overlays               262/8192        92224/2883584  ( 3.2%) 
+LDR lightdata         [variable]    11593852/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      673448/16777216 ( 4.0%) 
+entdata               [variable]      922474/393216   (234.6%) VERY FULL!
+LDR ambient table     9893/65536       39572/262144   (15.1%) 
+HDR ambient table     9893/65536       39572/262144   (15.1%) 
+LDR leaf ambient     36940/65536     1034320/1835008  (56.4%) 
+HDR leaf ambient      9893/65536      277004/1835008  (15.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/52860    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/200658   ( 0.0%) 
+pakfile               [variable]    16103420/0        ( 0.0%) 
+physics               [variable]     8682293/4194304  (207.0%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 70482
+Writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+42 seconds elapsed
