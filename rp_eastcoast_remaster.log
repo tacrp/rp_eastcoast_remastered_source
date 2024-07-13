@@ -14538,3 +14538,317 @@ Level flags = 0
 Total triangle count: 70482
 Writing c:\users\mohao\documents\hammer\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
 42 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\msi-laptop\documents\github\rp_eastcoast_remastered_source\rp_eastcoast_remaster.vmf
+Map revision 24342
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "tools/toolsnodraw_roof" not found.
+Material not found!: TOOLS/TOOLSNODRAW_ROOF
+material "test_speakers/black" not found.
+Material not found!: TEST_SPEAKERS/BLACK
+material "test_speakers/cuwoodm" not found.
+Material not found!: TEST_SPEAKERS/CUWOODM
+Patching WVT material: maps/rp_eastcoast_remaster/nature/blendgrassgravel003a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+env_cubemap pointing at deleted brushside near (1984, -1600, 16)
+env_cubemap pointing at deleted brushside near (1984, -1600, 16)
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+env_cubemap pointing at deleted brushside near (3648, -864, 32)
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Multiple references for cubemap on texture maps/rp_eastcoast_remaster/glass/offwndwb_-2944_896_64!!!
+Multiple references for cubemap on texture maps/rp_eastcoast_remaster/glass/offwndwb_-2944_896_64!!!
+Multiple references for cubemap on texture maps/rp_eastcoast_remaster/glass/offwndwb_-2944_896_64!!!
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-2304, 192, 64)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+env_cubemap pointing at deleted brushside near (-1152, -1240, 32)
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 754 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\msi-laptop\documents\github\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2912925 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 14841 texinfos to 8234
+Reduced 1609 texdatas to 1168 (82045 bytes to 58092)
+Writing c:\users\msi-laptop\documents\github\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+Wrote ZIP buffer, estimated size 14386842, actual size 14201306
+7 seconds elapsed
+
+
+
+32 threads
+reading c:\users\msi-laptop\documents\github\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+reading c:\users\msi-laptop\documents\github\rp_eastcoast_remastered_source\rp_eastcoast_remaster.prt
+2414 portalclusters
+4982 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5549 visible clusters (0.00%)
+Total clusters visible: 409637
+Average clusters visible: 169
+Building PAS...
+Average clusters audible: 803
+visdatasize:678370  compressed from 1467712
+writing c:\users\msi-laptop\documents\github\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\msi-laptop\documents\github\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+PREP OK
+Loaded alpha texture materials\models\props_foliage\branch_city.vtf
+Loaded alpha texture materials\models\props_foliage\Mall_trees_branches01.vtf
+24019 faces
+2 degenerate faces
+1701753 square feet [245052560.00 square inches]
+1487 Displacements
+25633 Square Feet [3691232.50 Square Inches]
+24017 patches before subdivision
+148455 patches after subdivision
+795 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 20106164, max 1830
+transfer lists: 153.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(623332, 570729, 429136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(128165, 108820, 69309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(32105, 25879, 14453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9555, 7480, 3753)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3088, 2339, 1059)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1076, 787, 321)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(391, 275, 101)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(149, 100, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(58, 37, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(23, 14, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(10, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(4, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0325 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+1 of 36 (2% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 427/4096        20496/196608   (10.4%) 
+brushes               7984/32768       95808/393216   (24.4%) 
+brushsides           55905/327680     447240/2621440  (17.1%) 
+planes               18994/65536      379880/1310720  (29.0%) 
+vertexes             39650/65536      475800/786432   (60.5%) 
+nodes                 9514/65536      304448/2097152  (14.5%) 
+texinfos              8234/12288      592848/884736   (67.0%) 
+texdata               1168/2048        37376/65536    (57.0%) 
+dispinfos             1487/0          261712/0        ( 0.0%) 
+disp_verts           38415/0          768300/0        ( 0.0%) 
+disp_tris            49792/0           99584/0        ( 0.0%) 
+disp_lmsamples       95134/0           95134/0        ( 0.0%) 
+faces                24019/65536     1345064/3670016  (36.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19612/65536     1098272/3670016  (29.9%) 
+leaves                9942/65536      318144/2097152  (15.2%) 
+leaffaces            26295/65536       52590/131072   (40.1%) 
+leafbrushes          13426/65536       26852/131072   (20.5%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges           197163/512000     788652/2048000  (38.5%) 
+edges               128531/256000     514124/1024000  (50.2%) 
+LDR worldlights        795/16384       69960/1441792  ( 4.9%) 
+HDR worldlights          0/16384           0/1441792  ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           2722/131072      27220/1310720  ( 2.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         56958/131072     113916/262144   (43.5%) 
+cubemapsamples         158/1024         2528/16384    (15.4%) 
+overlays               262/1024        92224/360448   (25.6%) 
+LDR lightdata         [variable]    11709784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      678370/16777216 ( 4.0%) 
+entdata               [variable]      941967/393216   (239.6%) VERY FULL!
+LDR ambient table     9942/65536       39768/262144   (15.2%) 
+HDR ambient table     9942/65536       39768/262144   (15.2%) 
+LDR leaf ambient     37321/65536     1044988/1835008  (56.9%) 
+HDR leaf ambient      9942/65536      278376/1835008  (15.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/52808    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/203214   ( 0.0%) 
+pakfile               [variable]    28291138/0        ( 0.0%) 
+physics               [variable]     2912925/4194304  (69.4%) 
+physics terrain       [variable]       94718/1048576  ( 9.0%) 
+
+Level flags = 1
+
+Total triangle count: 70606
+Writing c:\users\msi-laptop\documents\github\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+2 minutes, 4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\msi-laptop\documents\github\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+PREP OK
+Loaded alpha texture materials\models\props_foliage\branch_city.vtf
+Loaded alpha texture materials\models\props_foliage\Mall_trees_branches01.vtf
+24019 faces
+2 degenerate faces
+1701753 square feet [245052560.00 square inches]
+1487 Displacements
+25633 Square Feet [3691232.50 Square Inches]
+24017 patches before subdivision
+148455 patches after subdivision
+795 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 20106164, max 1830
+transfer lists: 153.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(623345, 570718, 429132)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(128167, 108819, 69308)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(32105, 25879, 14453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9555, 7480, 3753)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3088, 2339, 1059)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1076, 787, 321)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(391, 275, 101)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(149, 100, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(58, 37, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(23, 14, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(10, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(4, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0353 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+1 of 36 (2% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 427/4096        20496/196608   (10.4%) 
+brushes               7984/32768       95808/393216   (24.4%) 
+brushsides           55905/327680     447240/2621440  (17.1%) 
+planes               18994/65536      379880/1310720  (29.0%) 
+vertexes             39650/65536      475800/786432   (60.5%) 
+nodes                 9514/65536      304448/2097152  (14.5%) 
+texinfos              8234/12288      592848/884736   (67.0%) 
+texdata               1168/2048        37376/65536    (57.0%) 
+dispinfos             1487/0          261712/0        ( 0.0%) 
+disp_verts           38415/0          768300/0        ( 0.0%) 
+disp_tris            49792/0           99584/0        ( 0.0%) 
+disp_lmsamples       95134/0           95134/0        ( 0.0%) 
+faces                24019/65536     1345064/3670016  (36.7%) 
+hdr faces            24019/65536     1345064/3670016  (36.7%) 
+origfaces            19612/65536     1098272/3670016  (29.9%) 
+leaves                9942/65536      318144/2097152  (15.2%) 
+leaffaces            26295/65536       52590/131072   (40.1%) 
+leafbrushes          13426/65536       26852/131072   (20.5%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges           197163/512000     788652/2048000  (38.5%) 
+edges               128531/256000     514124/1024000  (50.2%) 
+LDR worldlights        795/16384       69960/1441792  ( 4.9%) 
+HDR worldlights        795/16384       69960/1441792  ( 4.9%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           2722/131072      27220/1310720  ( 2.1%) 
+waterverts               0/131072          0/1572864  ( 0.0%) 
+waterindices         56958/131072     113916/262144   (43.5%) 
+cubemapsamples         158/1024         2528/16384    (15.4%) 
+overlays               262/1024        92224/360448   (25.6%) 
+LDR lightdata         [variable]    11709784/0        ( 0.0%) 
+HDR lightdata         [variable]    11709784/0        ( 0.0%) 
+visdata               [variable]      678370/16777216 ( 4.0%) 
+entdata               [variable]      941967/393216   (239.6%) VERY FULL!
+LDR ambient table     9942/65536       39768/262144   (15.2%) 
+HDR ambient table     9942/65536       39768/262144   (15.2%) 
+LDR leaf ambient     37321/65536     1044988/1835008  (56.9%) 
+HDR leaf ambient     37319/65536     1044932/1835008  (56.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/52808    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/203214   ( 0.0%) 
+pakfile               [variable]    42398714/0        ( 0.0%) 
+physics               [variable]     2912925/4194304  (69.4%) 
+physics terrain       [variable]       94718/1048576  ( 9.0%) 
+
+Level flags = 3
+
+Total triangle count: 70606
+Writing c:\users\msi-laptop\documents\github\rp_eastcoast_remastered_source\rp_eastcoast_remaster.bsp
+2 minutes, 16 seconds elapsed
